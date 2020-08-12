@@ -1,0 +1,4 @@
+1
+/usr/share/backgrounds/arcolinux/peaceofmind-1920x1200.jpg
+/usr/share/backgrounds/arcolinux/yosemite-mountains-3250x1828.jpg
+/usr/share/backgrounds/arcolinux/sea-of-mystery-3840x2160.jpg

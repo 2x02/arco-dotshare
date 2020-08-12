@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-62259641-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-62259641-6');
+</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<script src="http://minimalsetups.com/wp-content/themes/minimalsetups/scripts/slide-out-menu.js"></script>
+
+<script src="http://minimalsetups.com/wp-content/themes/minimalsetups/scripts/swiper.js"></script>
+
+<title>MinimalSetups &#8211; Workspace and home office inspiration.</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="MinimalSetups &raquo; Feed" href="http://minimalsetups.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="MinimalSetups &raquo; Comments Feed" href="http://minimalsetups.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/minimalsetups.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://minimalsetups.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://minimalsetups.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.9' type='text/css' media='all' />
+<link rel='stylesheet' id='minimalsetups-style-css'  href='http://minimalsetups.com/wp-content/themes/minimalsetups/style.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://minimalsetups.com/wp-content/plugins/jetpack/css/jetpack.css?ver=8.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://minimalsetups.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://minimalsetups.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://minimalsetups.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://minimalsetups.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://minimalsetups.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel='shortlink' href='https://wp.me/8gGPy' />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//i0.wp.com'/>
+<link rel='dns-prefetch' href='//i1.wp.com'/>
+<link rel='dns-prefetch' href='//i2.wp.com'/>
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s1.wp.com'/>
+<link rel='dns-prefetch' href='//s2.wp.com'/>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://minimalsetups.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->			<style type="text/css">
+				/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+		<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+  <script src="//cdn.geni.us/snippet.min.js" defer></script>
+  <script type="text/javascript">
+    jQuery(document).ready(function( $ ) {
+	  var ale_on_click_checkbox_is_checked="";
+	  if(typeof Georiot !== "undefined")
+	  {
+		if(ale_on_click_checkbox_is_checked) {
+			Georiot.amazon.addOnClickRedirect(43815, true);
+		}
+		else {
+			Georiot.amazon.convertToGeoRiotLinks(43815, true);
+		};
+	  };
+    });
+  </script>
+</head>
+
+<body class="home blog group-blog hfeed wpb-js-composer js-comp-ver-5.5.2 vc_responsive">
+
+	<div class="slide-out-menu-toggle">
+	   <svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	       <defs></defs>
+	       <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+	           <g id="slide-out-menu-icon" fill-rule="nonzero" fill="#000000">
+	               <path d="M0,0 L20,0 L20,2 L0,2 L0,0 Z M0,12 L20,12 L20,14 L0,14 L0,12 Z M5,6 L20,6 L20,8 L5,8 L5,6 Z" id="Combined-Shape"></path>
+	           </g>
+	       </g>
+	   </svg>
+	</div>
+
+   <div class="slide-out-menu">
+		<div class="close-menu">
+	      <svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	          <defs></defs>
+	          <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+	              <g id="close-menu" transform="translate(-4.000000, -4.000000)" fill-rule="nonzero" fill="#fff">
+	                  <polygon id="Combined-Shape" transform="translate(10.000000, 10.000000) rotate(46.000000) translate(-10.000000, -10.000000) " points="9 9 3 9 3 11 9 11 9 17 11 17 11 11 17 11 17 9 11 9 11 3 9 3"></polygon>
+	              </g>
+	          </g>
+	      </svg>
+	   </div>
+      <div class="slide-out-menu-container">
+			<nav id="site-navigation" class="main-navigation" role="navigation">
+				<div class="menu-header-menu-container"><ul id="primary-menu" class="menu"><li id="menu-item-220" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-220"><a href="http://ulxstore.com">Store</a></li>
+<li id="menu-item-187" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187"><a href="http://minimalsetups.com/category/workspaces/">Workspaces</a></li>
+<li id="menu-item-210" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-210"><a href="http://minimalsetups.com/category/wallpapers/">Wallpapers</a></li>
+<li id="menu-item-211" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-211"><a href="http://minimalsetups.com/category/products/">Products</a></li>
+<li id="menu-item-219" class="submit-button menu-item menu-item-type-post_type menu-item-object-page menu-item-219"><a href="http://minimalsetups.com/submit-your-workspace/">Submit Your Workspace</a></li>
+</ul></div>			</nav><!-- #site-navigation -->
+			<div class="social-icons">
+				<ul>
+					<li>
+						<a href="http://facebook.com/minimalsetups" target="_blank"> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+								 <defs></defs>
+								 <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+									  <g id="facebook-icon" transform="translate(-77.000000, -3246.000000)" fill-rule="nonzero">
+											<g id="Footer" transform="translate(0.000000, 3113.000000)">
+												 <g id="facebook" transform="translate(77.000000, 133.000000)">
+													  <path d="M22.671875,0 C23.0364583,0 23.3489583,0.130208333 23.609375,0.390625 C23.8697917,0.651041667 24,0.963541667 24,1.328125 L24,22.671875 C24,23.0364583 23.8697917,23.3489583 23.609375,23.609375 C23.3489583,23.8697917 23.0364583,24 22.671875,24 L16.5625,24 L16.5625,14.703125 L19.671875,14.703125 L20.140625,11.078125 L16.5625,11.078125 L16.5625,8.765625 C16.5625,8.18229167 16.6848958,7.74479167 16.9296875,7.453125 C17.1744792,7.16145833 17.6510417,7.015625 18.359375,7.015625 L20.265625,7 L20.265625,3.765625 C19.609375,3.671875 18.6822917,3.625 17.484375,3.625 C16.0677083,3.625 14.9348958,4.04166667 14.0859375,4.875 C13.2369792,5.70833333 12.8125,6.88541667 12.8125,8.40625 L12.8125,11.078125 L9.6875,11.078125 L9.6875,14.703125 L12.8125,14.703125 L12.8125,24 L1.328125,24 C0.963541667,24 0.651041667,23.8697917 0.390625,23.609375 C0.130208333,23.3489583 0,23.0364583 0,22.671875 L0,1.328125 C0,0.963541667 0.130208333,0.651041667 0.390625,0.390625 C0.651041667,0.130208333 0.963541667,0 1.328125,0 L22.671875,0 Z" id="Shape"></path>
+												 </g>
+											</g>
+									  </g>
+								 </g>
+							</svg></a>
+					</li>
+					<li>
+						<a href="http://instagram.com/minimalsetups" target="_blank"> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+								 <defs></defs>
+								 <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+									  <g id="instagram-icon" transform="translate(-121.000000, -3246.000000)" fill-rule="nonzero">
+											<g id="Footer" transform="translate(0.000000, 3113.000000)">
+												 <g id="instagram" transform="translate(121.000000, 133.000000)">
+													  <path d="M11.8588235,5.97647059 C8.56470588,5.97647059 5.83529412,8.65882353 5.83529412,12 C5.83529412,15.3411765 8.51764706,18.0235294 11.8588235,18.0235294 C15.2,18.0235294 17.8823529,15.2941176 17.8823529,12 C17.8823529,8.70588235 15.1529412,5.97647059 11.8588235,5.97647059 Z M11.8588235,15.8588235 C9.74117647,15.8588235 8,14.1176471 8,12 C8,9.88235294 9.74117647,8.14117647 11.8588235,8.14117647 C13.9764706,8.14117647 15.7176471,9.88235294 15.7176471,12 C15.7176471,14.1176471 13.9764706,15.8588235 11.8588235,15.8588235 Z" id="Shape"></path>
+													  <circle id="Oval" cx="18.1176471" cy="5.83529412" r="1.36470588"></circle>
+													  <path d="M21.6470588,2.30588235 C20.4235294,1.03529412 18.6823529,0.376470588 16.7058824,0.376470588 L7.01176471,0.376470588 C2.91764706,0.376470588 0.188235294,3.10588235 0.188235294,7.2 L0.188235294,16.8470588 C0.188235294,18.8705882 0.847058824,20.6117647 2.16470588,21.8823529 C3.43529412,23.1058824 5.12941176,23.7176471 7.05882353,23.7176471 L16.6588235,23.7176471 C18.6823529,23.7176471 20.3764706,23.0588235 21.6,21.8823529 C22.8705882,20.6588235 23.5294118,18.9176471 23.5294118,16.8941176 L23.5294118,7.2 C23.5294118,5.22352941 22.8705882,3.52941176 21.6470588,2.30588235 Z M21.4588235,16.8941176 C21.4588235,18.3529412 20.9411765,19.5294118 20.0941176,20.3294118 C19.2470588,21.1294118 18.0705882,21.5529412 16.6588235,21.5529412 L7.05882353,21.5529412 C5.64705882,21.5529412 4.47058824,21.1294118 3.62352941,20.3294118 C2.77647059,19.4823529 2.35294118,18.3058824 2.35294118,16.8470588 L2.35294118,7.2 C2.35294118,5.78823529 2.77647059,4.61176471 3.62352941,3.76470588 C4.42352941,2.96470588 5.64705882,2.54117647 7.05882353,2.54117647 L16.7529412,2.54117647 C18.1647059,2.54117647 19.3411765,2.96470588 20.1882353,3.81176471 C20.9882353,4.65882353 21.4588235,5.83529412 21.4588235,7.2 L21.4588235,16.8941176 L21.4588235,16.8941176 Z" id="Shape"></path>
+												 </g>
+											</g>
+									  </g>
+								 </g>
+							</svg></a>
+					</li>
+					<li>
+						<a href="http://twitter.com/minimalsetups" target="_blank"> 	<svg width="27px" height="22px" viewBox="0 0 27 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+								 <defs></defs>
+								 <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+									  <g id="twitter-icon" transform="translate(-164.000000, -3247.000000)" fill-rule="nonzero" >
+											<g id="Footer" transform="translate(0.000000, 3113.000000)">
+												 <g id="twitter" transform="translate(164.000000, 134.000000)">
+													  <path d="M26.91198,2.7351 C25.93404,3.1698 24.88158,3.46302 23.77728,3.59424 C24.9048,2.91924 25.76934,1.85004 26.17704,0.57456 C25.12242,1.20042 23.95494,1.65456 22.71132,1.89972 C21.7161,0.83916 20.29752,0.17604 18.72774,0.17604 C15.714,0.17604 13.2705,2.61954 13.2705,5.63382 C13.2705,6.06096 13.31856,6.4773 13.41198,6.87744 C8.87598,6.64956 4.85406,4.47714 2.16216,1.17504 C1.69236,1.98072 1.42344,2.91816 1.42344,3.91932 C1.42344,5.81256 2.3868,7.48332 3.85128,8.4618 C2.95704,8.43318 2.11518,8.18748 1.37916,7.7787 C1.37862,7.80138 1.37862,7.8246 1.37862,7.84782 C1.37862,10.49166 3.25998,12.69702 5.75694,13.19922 C5.29902,13.32342 4.8168,13.39038 4.31892,13.39038 C3.96684,13.39038 3.62502,13.35636 3.29184,13.2921 C3.98682,15.4602 6.0021,17.03862 8.38998,17.08236 C6.52212,18.5463 4.16934,19.41894 1.6119,19.41894 C1.1718,19.41894 0.7371,19.39302 0.30996,19.34226 C2.72592,20.89152 5.5944,21.7944 8.67618,21.7944 C18.71532,21.7944 24.20442,13.4784 24.20442,6.26616 C24.20442,6.02964 24.19956,5.79366 24.1893,5.5593 C25.25526,4.79142 26.18082,3.82968 26.91198,2.7351 Z" id="Shape"></path>
+												 </g>
+											</g>
+									  </g>
+								 </g>
+							</svg></a>
+					</li>
+				</ul>
+			</div>
+      </div>
+   </div>
+
+<div id="page" class="site wrapper">
+
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner">
+
+		<div class="site-branding">
+							<h1 class="site-title"><a href="http://minimalsetups.com/" rel="home">MinimalSetups</a></h1>
+			
+			<nav id="site-navigation" class="main-navigation" role="navigation">
+				<div class="menu-header-menu-container"><ul id="primary-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-220"><a href="http://ulxstore.com">Store</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187"><a href="http://minimalsetups.com/category/workspaces/">Workspaces</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-210"><a href="http://minimalsetups.com/category/wallpapers/">Wallpapers</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-211"><a href="http://minimalsetups.com/category/products/">Products</a></li>
+<li class="submit-button menu-item menu-item-type-post_type menu-item-object-page menu-item-219"><a href="http://minimalsetups.com/submit-your-workspace/">Submit Your Workspace</a></li>
+</ul></div>			</nav><!-- #site-navigation -->
+		</div><!-- .site-branding -->
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+	
+
+<div class="swiper-container">
+    <!-- Additional required wrapper -->
+    <div class="swiper-wrapper">
+      <!-- Slides -->
+      
+         
+         <div class="swiper-slide">
+            <a href="http://minimalsetups.com/2019/07/10/minimalist-5k-workspace-by-oliur/">
+               <div class="swiper-bg" style="background-image: url(https://i2.wp.com/minimalsetups.com/wp-content/uploads/2019/07/65883413_501067473969835_4165648560229909599_n.jpg?fit=1080%2C1349);"></div>
+               <div class="slider-content">
+                 <h2>Minimalist 5K Workspace By Oliur</h2>
+                 <h5>Workspaces</h5>
+               </div>
+            </a>
+ 		   </div>
+
+      
+         
+         <div class="swiper-slide">
+            <a href="http://minimalsetups.com/2019/05/22/clean-ultrawide-monochrome-workspace/">
+               <div class="swiper-bg" style="background-image: url(https://i1.wp.com/minimalsetups.com/wp-content/uploads/2019/05/3-vrQVgL4.jpg?fit=1600%2C1066);"></div>
+               <div class="slider-content">
+                 <h2>Clean UltraWide Monochrome Workspace</h2>
+                 <h5>Workspaces</h5>
+               </div>
+            </a>
+ 		   </div>
+
+      
+         
+         <div class="swiper-slide">
+            <a href="http://minimalsetups.com/2019/04/03/imac-monitor-arm-workspace/">
+               <div class="swiper-bg" style="background-image: url(https://i2.wp.com/minimalsetups.com/wp-content/uploads/2018/07/DXSnXvUX4AAogCJ.jpg?fit=1200%2C800);"></div>
+               <div class="slider-content">
+                 <h2>iMac Monitor Arm Workspace</h2>
+                 <h5>Workspaces</h5>
+               </div>
+            </a>
+ 		   </div>
+
+      
+         
+         <div class="swiper-slide">
+            <a href="http://minimalsetups.com/2018/07/25/black-wallpaper-collection-from-jean-marc-denis/">
+               <div class="swiper-bg" style="background-image: url(https://i0.wp.com/minimalsetups.com/wp-content/uploads/2018/07/BeFunky-collage.jpg?fit=1600%2C900);"></div>
+               <div class="slider-content">
+                 <h2>Black Wallpaper Collection From Jean-Marc Denis</h2>
+                 <h5>Wallpapers</h5>
+               </div>
+            </a>
+ 		   </div>
+
+          </div>
+    <!-- If we need pagination -->
+    <div class="swiper-pagination"></div>
+
+    <!-- If we need navigation buttons -->
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+</div>
+
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		<div class="grid-view">
+
+		<article id="post-1330" class="post-1330 post type-post status-publish format-standard has-post-thumbnail hentry category-workspaces tag-pc">
+	<div class="grid-post">
+		<a href="http://minimalsetups.com/2019/08/08/light-airy-productive-pc-workspace/">
+			<img   src="https://i1.wp.com/minimalsetups.com/wp-content/uploads/2019/08/k6kp0f5s55c31.png?resize=800%2C600" class="attachment-grid-thumb size-grid-thumb wp-post-image jetpack-lazy-image" alt="" data-lazy-srcset="https://i1.wp.com/minimalsetups.com/wp-content/uploads/2019/08/k6kp0f5s55c31.png?resize=800%2C600 800w, https://i1.wp.com/minimalsetups.com/wp-content/uploads/2019/08/k6kp0f5s55c31.png?zoom=2&amp;resize=800%2C600 1600w, https://i1.wp.com/minimalsetups.com/wp-content/uploads/2019/08/k6kp0f5s55c31.png?zoom=3&amp;resize=800%2C600 2400w" data-lazy-sizes="(max-width: 800px) 100vw, 800px" data-lazy-src="https://i1.wp.com/minimalsetups.com/wp-content/uploads/2019/08/k6kp0f5s55c31.png?resize=800%2C600&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />		</a>
+		<div class="grid-text-content">
+			<h2 class="entry-title"><a href="http://minimalsetups.com/2019/08/08/light-airy-productive-pc-workspace/" rel="bookmark">Light &#038; Airy Productive PC Workspace</a></h2>			<div class="entry-meta">
+				<a href="http://minimalsetups.com/category/workspaces/" rel="category tag">Workspaces</a>			</div><!-- .entry-meta -->
+					</div>
+	</div>
+</article><!-- #post-## -->
+<article id="post-154" class="post-154 post type-post status-publish format-standard has-post-thumbnail hentry category-workspaces tag-macbook tag-dark tag-monitor-arm tag-neon">
+	<div class="grid-post">
+		<a href="http://minimalsetups.com/2019/07/26/dark-neon-workspace/">
+			<img   src="https://i1.wp.com/minimalsetups.com/wp-content/uploads/2018/07/28435706_810925989096030_808718539128045568_n.jpg?resize=800%2C600" class="attachment-grid-thumb size-grid-thumb wp-post-image jetpack-lazy-image" alt="" data-lazy-srcset="https://i1.wp.com/minimalsetups.com/wp-content/uploads/2018/07/28435706_810925989096030_808718539128045568_n.jpg?zoom=2&amp;resize=800%2C600 1600w, https://i1.wp.com/minimalsetups.com/wp-content/uploads/2018/07/28435706_810925989096030_808718539128045568_n.jpg?zoom=3&amp;resize=800%2C600 2400w" data-lazy-sizes="(max-width: 800px) 100vw, 800px" data-lazy-src="https://i1.wp.com/minimalsetups.com/wp-content/uploads/2018/07/28435706_810925989096030_808718539128045568_n.jpg?resize=800%2C600&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />		</a>
+		<div class="grid-text-content">
+			<h2 class="entry-title"><a href="http://minimalsetups.com/2019/07/26/dark-neon-workspace/" rel="bookmark">Dark Neon Workspace</a></h2>			<div class="entry-meta">
+				<a href="http://minimalsetups.com/category/workspaces/" rel="category tag">Workspaces</a>			</div><!-- .entry-meta -->
+					</div>
+	</div>
+</article><!-- #post-## -->
+<article id="post-165" class="post-165 post type-post status-publish format-standard has-post-thumbnail hentry category-workspaces tag-ultrawide tag-curved tag-wooden tag-monitor-arm">
+	<div class="grid-post">
+		<a href="http://minimalsetups.com/2019/07/22/triple-monitor-bedroom-workspace/">
+			<img   src="https://i2.wp.com/minimalsetups.com/wp-content/uploads/2018/07/1-OgqM5Z9.jpg?resize=800%2C600" class="attachment-grid-thumb size-grid-thumb wp-post-image jetpack-lazy-image" alt="" data-lazy-srcset="https://i2.wp.com/minimalsetups.com/wp-content/uploads/2018/07/1-OgqM5Z9.jpg?zoom=2&amp;resize=800%2C600 1600w, https://i2.wp.com/minimalsetups.com/wp-content/uploads/2018/07/1-OgqM5Z9.jpg?zoom=3&amp;resize=800%2C600 2400w" data-lazy-sizes="(max-width: 800px) 100vw, 800px" data-lazy-src="https://i2.wp.com/minimalsetups.com/wp-content/uploads/2018/07/1-OgqM5Z9.jpg?resize=800%2C600&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />		</a>
+		<div class="grid-text-content">
+			<h2 class="entry-title"><a href="http://minimalsetups.com/2019/07/22/triple-monitor-bedroom-workspace/" rel="bookmark">Triple Monitor Bedroom Workspace</a></h2>			<div class="entry-meta">
+				<a href="http://minimalsetups.com/category/workspaces/" rel="category tag">Workspaces</a>			</div><!-- .entry-meta -->
+					</div>
+	</div>
+</article><!-- #post-## -->
+<article id="post-1325" class="post-1325 post type-post status-publish format-standard has-post-thumbnail hentry category-workspaces tag-macbook tag-ultrawide tag-apple">
+	<div class="grid-post">
+		<a href="http://minimalsetups.com/2019/07/19/one-cord-ultrawide-macbook-workspace/">
+			<img   src="https://i0.wp.com/minimalsetups.com/wp-content/uploads/2019/07/ki0hlofkqeh21.jpg?resize=800%2C600" class="attachment-grid-thumb size-grid-thumb wp-post-image jetpack-lazy-image" alt="" data-lazy-srcset="https://i0.wp.com/minimalsetups.com/wp-content/uploads/2019/07/ki0hlofkqeh21.jpg?resize=800%2C600 800w, https://i0.wp.com/minimalsetups.com/wp-content/uploads/2019/07/ki0hlofkqeh21.jpg?zoom=2&amp;resize=800%2C600 1600w, https://i0.wp.com/minimalsetups.com/wp-content/uploads/2019/07/ki0hlofkqeh21.jpg?zoom=3&amp;resize=800%2C600 2400w" data-lazy-sizes="(max-width: 800px) 100vw, 800px" data-lazy-src="https://i0.wp.com/minimalsetups.com/wp-content/uploads/2019/07/ki0hlofkqeh21.jpg?resize=800%2C600&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />		</a>
+		<div class="grid-text-content">
+			<h2 class="entry-title"><a href="http://minimalsetups.com/2019/07/19/one-cord-ultrawide-macbook-workspace/" rel="bookmark">&#8216;One Cord&#8217; Ultrawide MacBook Workspace</a></h2>			<div class="entry-meta">
+				<a href="http://minimalsetups.com/category/workspaces/" rel="category tag">Workspaces</a>			</div><!-- .entry-meta -->
+					</div>
+	</div>
+</article><!-- #post-## -->
+<article id="post-1153" class="post-1153 post type-post status-publish format-standard has-post-thumbnail hentry category-workspaces tag-imac tag-apple">
+	<div class="grid-post">
+		<a href="http://minimalsetups.com/2019/07/17/cozy-productive-imac-workspace-by-sam-ciurdar/">
+			<img   src="https://i0.wp.com/minimalsetups.com/wp-content/uploads/2019/03/53086901_146896109678794_1831470619730265400_n.jpg?resize=800%2C600" class="attachment-grid-thumb size-grid-thumb wp-post-image jetpack-lazy-image" alt="" data-lazy-src="https://i0.wp.com/minimalsetups.com/wp-content/uploads/2019/03/53086901_146896109678794_1831470619730265400_n.jpg?resize=800%2C600&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />		</a>
+		<div class="grid-text-content">
+			<h2 class="entry-title"><a href="http://minimalsetups.com/2019/07/17/cozy-productive-imac-workspace-by-sam-ciurdar/" rel="bookmark">Cozy &#038; Productive iMac Workspace By Sam Ciurdar</a></h2>			<div class="entry-meta">
+				<a href="http://minimalsetups.com/category/workspaces/" rel="category tag">Workspaces</a>			</div><!-- .entry-meta -->
+					</div>
+	</div>
+</article><!-- #post-## -->
+<article id="post-1321" class="post-1321 post type-post status-publish format-standard has-post-thumbnail hentry category-workspaces tag-ikea tag-pc tag-cosy">
+	<div class="grid-post">
+		<a href="http://minimalsetups.com/2019/07/17/sleek-cosy-living-room-workspace/">
+			<img   src="https://i2.wp.com/minimalsetups.com/wp-content/uploads/2019/07/a0eSHu3PG2QEUP6uYmOnfOUtwx1DMoUoICxAeDmshKQ.jpg?resize=800%2C600" class="attachment-grid-thumb size-grid-thumb wp-post-image jetpack-lazy-image" alt="" data-lazy-srcset="https://i2.wp.com/minimalsetups.com/wp-content/uploads/2019/07/a0eSHu3PG2QEUP6uYmOnfOUtwx1DMoUoICxAeDmshKQ.jpg?resize=800%2C600 800w, https://i2.wp.com/minimalsetups.com/wp-content/uploads/2019/07/a0eSHu3PG2QEUP6uYmOnfOUtwx1DMoUoICxAeDmshKQ.jpg?zoom=2&amp;resize=800%2C600 1600w, https://i2.wp.com/minimalsetups.com/wp-content/uploads/2019/07/a0eSHu3PG2QEUP6uYmOnfOUtwx1DMoUoICxAeDmshKQ.jpg?zoom=3&amp;resize=800%2C600 2400w" data-lazy-sizes="(max-width: 800px) 100vw, 800px" data-lazy-src="https://i2.wp.com/minimalsetups.com/wp-content/uploads/2019/07/a0eSHu3PG2QEUP6uYmOnfOUtwx1DMoUoICxAeDmshKQ.jpg?resize=800%2C600&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />		</a>
+		<div class="grid-text-content">
+			<h2 class="entry-title"><a href="http://minimalsetups.com/2019/07/17/sleek-cosy-living-room-workspace/" rel="bookmark">Sleek &#038; Cosy Living Room Workspace</a></h2>			<div class="entry-meta">
+				<a href="http://minimalsetups.com/category/workspaces/" rel="category tag">Workspaces</a>			</div><!-- .entry-meta -->
+					</div>
+	</div>
+</article><!-- #post-## -->
+<article id="post-1309" class="post-1309 post type-post status-publish format-standard has-post-thumbnail hentry category-workspaces">
+	<div class="grid-post">
+		<a href="http://minimalsetups.com/2019/07/16/loft-bed-pc-workspace/">
+			<img   src="https://i0.wp.com/minimalsetups.com/wp-content/uploads/2019/07/3-VXiveU3.jpg?resize=800%2C600" class="attachment-grid-thumb size-grid-thumb wp-post-image jetpack-lazy-image" alt="" data-lazy-srcset="https://i0.wp.com/minimalsetups.com/wp-content/uploads/2019/07/3-VXiveU3.jpg?resize=800%2C600 800w, https://i0.wp.com/minimalsetups.com/wp-content/uploads/2019/07/3-VXiveU3.jpg?zoom=2&amp;resize=800%2C600 1600w, https://i0.wp.com/minimalsetups.com/wp-content/uploads/2019/07/3-VXiveU3.jpg?zoom=3&amp;resize=800%2C600 2400w" data-lazy-sizes="(max-width: 800px) 100vw, 800px" data-lazy-src="https://i0.wp.com/minimalsetups.com/wp-content/uploads/2019/07/3-VXiveU3.jpg?resize=800%2C600&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />		</a>
+		<div class="grid-text-content">
+			<h2 class="entry-title"><a href="http://minimalsetups.com/2019/07/16/loft-bed-pc-workspace/" rel="bookmark">Loft Bed PC Workspace</a></h2>			<div class="entry-meta">
+				<a href="http://minimalsetups.com/category/workspaces/" rel="category tag">Workspaces</a>			</div><!-- .entry-meta -->
+					</div>
+	</div>
+</article><!-- #post-## -->
+<article id="post-1305" class="post-1305 post type-post status-publish format-standard has-post-thumbnail hentry category-workspaces tag-macbook tag-apple tag-minimal tag-lg">
+	<div class="grid-post">
+		<a href="http://minimalsetups.com/2019/07/12/super-minimal-dual-ultrafine-workspace/">
+			<img   src="https://i1.wp.com/minimalsetups.com/wp-content/uploads/2019/07/0zmbxowo4c731.jpg?resize=800%2C600" class="attachment-grid-thumb size-grid-thumb wp-post-image jetpack-lazy-image" alt="" data-lazy-srcset="https://i1.wp.com/minimalsetups.com/wp-content/uploads/2019/07/0zmbxowo4c731.jpg?w=4032 4032w, https://i1.wp.com/minimalsetups.com/wp-content/uploads/2019/07/0zmbxowo4c731.jpg?resize=300%2C225 300w, https://i1.wp.com/minimalsetups.com/wp-content/uploads/2019/07/0zmbxowo4c731.jpg?resize=768%2C576 768w, https://i1.wp.com/minimalsetups.com/wp-content/uploads/2019/07/0zmbxowo4c731.jpg?resize=1024%2C768 1024w, https://i1.wp.com/minimalsetups.com/wp-content/uploads/2019/07/0zmbxowo4c731.jpg?resize=800%2C600 800w, https://i1.wp.com/minimalsetups.com/wp-content/uploads/2019/07/0zmbxowo4c731.jpg?resize=1600%2C1200 1600w, https://i1.wp.com/minimalsetups.com/wp-content/uploads/2019/07/0zmbxowo4c731.jpg?w=1680 1680w, https://i1.wp.com/minimalsetups.com/wp-content/uploads/2019/07/0zmbxowo4c731.jpg?w=2520 2520w" data-lazy-sizes="(max-width: 800px) 100vw, 800px" data-lazy-src="https://i1.wp.com/minimalsetups.com/wp-content/uploads/2019/07/0zmbxowo4c731.jpg?resize=800%2C600&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />		</a>
+		<div class="grid-text-content">
+			<h2 class="entry-title"><a href="http://minimalsetups.com/2019/07/12/super-minimal-dual-ultrafine-workspace/" rel="bookmark">Super Minimal Dual UltraFine Workspace</a></h2>			<div class="entry-meta">
+				<a href="http://minimalsetups.com/category/workspaces/" rel="category tag">Workspaces</a>			</div><!-- .entry-meta -->
+					</div>
+	</div>
+</article><!-- #post-## -->
+<article id="post-1302" class="post-1302 post type-post status-publish format-standard has-post-thumbnail hentry category-workspaces tag-ultrawide">
+	<div class="grid-post">
+		<a href="http://minimalsetups.com/2019/07/11/simple-clean-ultrawide-workspace/">
+			<img   src="https://i0.wp.com/minimalsetups.com/wp-content/uploads/2019/07/y77G4nu93-vsU8z1BIimC6uC3O0BO8SCMz3OatCfN_s.jpg?resize=750%2C600" class="attachment-grid-thumb size-grid-thumb wp-post-image jetpack-lazy-image" alt="" data-lazy-src="https://i0.wp.com/minimalsetups.com/wp-content/uploads/2019/07/y77G4nu93-vsU8z1BIimC6uC3O0BO8SCMz3OatCfN_s.jpg?resize=750%2C600&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />		</a>
+		<div class="grid-text-content">
+			<h2 class="entry-title"><a href="http://minimalsetups.com/2019/07/11/simple-clean-ultrawide-workspace/" rel="bookmark">Simple &#038; Clean Ultrawide Workspace</a></h2>			<div class="entry-meta">
+				<a href="http://minimalsetups.com/category/workspaces/" rel="category tag">Workspaces</a>			</div><!-- .entry-meta -->
+					</div>
+	</div>
+</article><!-- #post-## -->
+
+	<nav class="navigation posts-navigation" role="navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="http://minimalsetups.com/page/2/" >Older posts</a></div></div>
+	</nav>
+		</div><!-- grid-view -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+
+		<div class="footer-content">
+			<div class="about">
+				<h6 class="widget-title">About</h6>
+				<p>
+					MinimalSetups is your source for workspace and office inspiration. We share workspaces, wallpapers and products we think you will love. We hope we can help you up your setup game.
+				</p>
+			</div>
+			<div class="links">
+				<h6 class="widget-title">Links</h6>
+				<div class="footer-menu"><ul id="menu-footer-links" class="menu"><li id="menu-item-224" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-224"><a href="http://ulxstore.com">Store</a></li>
+<li id="menu-item-221" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-221"><a href="http://minimalsetups.com/category/workspaces/">Workspaces</a></li>
+<li id="menu-item-222" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-222"><a href="http://minimalsetups.com/category/wallpapers/">Wallpapers</a></li>
+<li id="menu-item-223" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-223"><a href="http://minimalsetups.com/category/products/">Products</a></li>
+</ul></div>			</div>
+			<div class="footer-email-form">
+				<h6 class="widget-title">Email</h6>
+				<p>
+					Sign up to our email list to be notified exclusive posts.
+				</p>
+				<form id="subForm" class="js-cm-form" action="https://www.createsend.com/t/subscribeerror?description=" method="post" data-id="2BE4EF332AA2E32596E38B640E9056195E687E04DFDB7E3CBC6F356A126F84DC5498DF6559BE6B813BEE9CA922017830439781BA19E2DB3F36A3951C29A73C59">
+			    <input id="fieldEmail" name="cm-zkkdju-zkkdju" type="email" class="js-cm-email-input" placeholder="Enter your email"
+			    required />
+			    <button class="js-cm-submit-button" type="submit">Subscribe</button>
+				</form>
+				<script type="text/javascript" src="https://js.createsend1.com/javascript/copypastesubscribeformlogic.js"></script>
+			</div>
+		</div>
+
+		<div class="site-info">
+			<div class="social-icons">
+				<ul>
+					<li>
+						<a href="http://facebook.com/minimalsetups" target="_blank"> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+							    <defs></defs>
+							    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+							        <g id="facebook-icon" transform="translate(-77.000000, -3246.000000)" fill-rule="nonzero">
+							            <g id="Footer" transform="translate(0.000000, 3113.000000)">
+							                <g id="facebook" transform="translate(77.000000, 133.000000)">
+							                    <path d="M22.671875,0 C23.0364583,0 23.3489583,0.130208333 23.609375,0.390625 C23.8697917,0.651041667 24,0.963541667 24,1.328125 L24,22.671875 C24,23.0364583 23.8697917,23.3489583 23.609375,23.609375 C23.3489583,23.8697917 23.0364583,24 22.671875,24 L16.5625,24 L16.5625,14.703125 L19.671875,14.703125 L20.140625,11.078125 L16.5625,11.078125 L16.5625,8.765625 C16.5625,8.18229167 16.6848958,7.74479167 16.9296875,7.453125 C17.1744792,7.16145833 17.6510417,7.015625 18.359375,7.015625 L20.265625,7 L20.265625,3.765625 C19.609375,3.671875 18.6822917,3.625 17.484375,3.625 C16.0677083,3.625 14.9348958,4.04166667 14.0859375,4.875 C13.2369792,5.70833333 12.8125,6.88541667 12.8125,8.40625 L12.8125,11.078125 L9.6875,11.078125 L9.6875,14.703125 L12.8125,14.703125 L12.8125,24 L1.328125,24 C0.963541667,24 0.651041667,23.8697917 0.390625,23.609375 C0.130208333,23.3489583 0,23.0364583 0,22.671875 L0,1.328125 C0,0.963541667 0.130208333,0.651041667 0.390625,0.390625 C0.651041667,0.130208333 0.963541667,0 1.328125,0 L22.671875,0 Z" id="Shape"></path>
+							                </g>
+							            </g>
+							        </g>
+							    </g>
+							</svg></a>
+					</li>
+					<li>
+						<a href="http://instagram.com/minimalsetups" target="_blank"> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+							    <defs></defs>
+							    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+							        <g id="instagram-icon" transform="translate(-121.000000, -3246.000000)" fill-rule="nonzero">
+							            <g id="Footer" transform="translate(0.000000, 3113.000000)">
+							                <g id="instagram" transform="translate(121.000000, 133.000000)">
+							                    <path d="M11.8588235,5.97647059 C8.56470588,5.97647059 5.83529412,8.65882353 5.83529412,12 C5.83529412,15.3411765 8.51764706,18.0235294 11.8588235,18.0235294 C15.2,18.0235294 17.8823529,15.2941176 17.8823529,12 C17.8823529,8.70588235 15.1529412,5.97647059 11.8588235,5.97647059 Z M11.8588235,15.8588235 C9.74117647,15.8588235 8,14.1176471 8,12 C8,9.88235294 9.74117647,8.14117647 11.8588235,8.14117647 C13.9764706,8.14117647 15.7176471,9.88235294 15.7176471,12 C15.7176471,14.1176471 13.9764706,15.8588235 11.8588235,15.8588235 Z" id="Shape"></path>
+							                    <circle id="Oval" cx="18.1176471" cy="5.83529412" r="1.36470588"></circle>
+							                    <path d="M21.6470588,2.30588235 C20.4235294,1.03529412 18.6823529,0.376470588 16.7058824,0.376470588 L7.01176471,0.376470588 C2.91764706,0.376470588 0.188235294,3.10588235 0.188235294,7.2 L0.188235294,16.8470588 C0.188235294,18.8705882 0.847058824,20.6117647 2.16470588,21.8823529 C3.43529412,23.1058824 5.12941176,23.7176471 7.05882353,23.7176471 L16.6588235,23.7176471 C18.6823529,23.7176471 20.3764706,23.0588235 21.6,21.8823529 C22.8705882,20.6588235 23.5294118,18.9176471 23.5294118,16.8941176 L23.5294118,7.2 C23.5294118,5.22352941 22.8705882,3.52941176 21.6470588,2.30588235 Z M21.4588235,16.8941176 C21.4588235,18.3529412 20.9411765,19.5294118 20.0941176,20.3294118 C19.2470588,21.1294118 18.0705882,21.5529412 16.6588235,21.5529412 L7.05882353,21.5529412 C5.64705882,21.5529412 4.47058824,21.1294118 3.62352941,20.3294118 C2.77647059,19.4823529 2.35294118,18.3058824 2.35294118,16.8470588 L2.35294118,7.2 C2.35294118,5.78823529 2.77647059,4.61176471 3.62352941,3.76470588 C4.42352941,2.96470588 5.64705882,2.54117647 7.05882353,2.54117647 L16.7529412,2.54117647 C18.1647059,2.54117647 19.3411765,2.96470588 20.1882353,3.81176471 C20.9882353,4.65882353 21.4588235,5.83529412 21.4588235,7.2 L21.4588235,16.8941176 L21.4588235,16.8941176 Z" id="Shape"></path>
+							                </g>
+							            </g>
+							        </g>
+							    </g>
+							</svg></a>
+					</li>
+					<li>
+						<a href="http://twitter.com/minimalsetups" target="_blank"> 	<svg width="27px" height="22px" viewBox="0 0 27 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+							    <defs></defs>
+							    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+							        <g id="twitter-icon" transform="translate(-164.000000, -3247.000000)" fill-rule="nonzero" >
+							            <g id="Footer" transform="translate(0.000000, 3113.000000)">
+							                <g id="twitter" transform="translate(164.000000, 134.000000)">
+							                    <path d="M26.91198,2.7351 C25.93404,3.1698 24.88158,3.46302 23.77728,3.59424 C24.9048,2.91924 25.76934,1.85004 26.17704,0.57456 C25.12242,1.20042 23.95494,1.65456 22.71132,1.89972 C21.7161,0.83916 20.29752,0.17604 18.72774,0.17604 C15.714,0.17604 13.2705,2.61954 13.2705,5.63382 C13.2705,6.06096 13.31856,6.4773 13.41198,6.87744 C8.87598,6.64956 4.85406,4.47714 2.16216,1.17504 C1.69236,1.98072 1.42344,2.91816 1.42344,3.91932 C1.42344,5.81256 2.3868,7.48332 3.85128,8.4618 C2.95704,8.43318 2.11518,8.18748 1.37916,7.7787 C1.37862,7.80138 1.37862,7.8246 1.37862,7.84782 C1.37862,10.49166 3.25998,12.69702 5.75694,13.19922 C5.29902,13.32342 4.8168,13.39038 4.31892,13.39038 C3.96684,13.39038 3.62502,13.35636 3.29184,13.2921 C3.98682,15.4602 6.0021,17.03862 8.38998,17.08236 C6.52212,18.5463 4.16934,19.41894 1.6119,19.41894 C1.1718,19.41894 0.7371,19.39302 0.30996,19.34226 C2.72592,20.89152 5.5944,21.7944 8.67618,21.7944 C18.71532,21.7944 24.20442,13.4784 24.20442,6.26616 C24.20442,6.02964 24.19956,5.79366 24.1893,5.5593 C25.25526,4.79142 26.18082,3.82968 26.91198,2.7351 Z" id="Shape"></path>
+							                </g>
+							            </g>
+							        </g>
+							    </g>
+							</svg></a>
+					</li>
+				</ul>
+			</div>
+			&copy; 2020 MinimalSetups. Part of UltraLinx Network.
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://minimalsetups.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20191001'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/minimalsetups.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://minimalsetups.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"minimalsetups"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://minimalsetups.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.17'></script>
+<script type='text/javascript' src='http://minimalsetups.com/wp-content/themes/minimalsetups/js/navigation.js?ver=20151215'></script>
+<script type='text/javascript' src='http://minimalsetups.com/wp-content/themes/minimalsetups/js/skip-link-focus-fix.js?ver=20151215'></script>
+<script type='text/javascript' src='http://minimalsetups.com/wp-content/plugins/jetpack/_inc/build/lazy-images/js/lazy-images.min.js?ver=8.6.1'></script>
+<script type='text/javascript' src='http://minimalsetups.com/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-202033.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.6.1',blog:'122188580',post:'0',tz:'0',srv:'minimalsetups.com'} ]);
+	_stq.push([ 'clickTrackerInit', '122188580', '0' ]);
+</script>
+
+<script>
+  var mySwiper = new Swiper ('.swiper-container', {
+    // Optional parameters
+	 slidesPerView: 'auto',
+	 centeredSlides: true,
+	 spaceBetween: 30,
+    loop: true,
+	 loopedSlides:  6,
+	 autoplay: {
+		 delay: 6000,
+	 },
+
+	// Responsive breakpoints
+		breakpoints: {
+			// when window width is <= 640px
+			767: {
+				spaceBetween: 10,
+			},
+	   },
+
+    // If we need pagination
+    pagination: {
+      el: '.swiper-pagination',
+    },
+
+    // Navigation arrows
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+
+    // And if we need scrollbar
+    scrollbar: {
+      el: '.swiper-scrollbar',
+    },
+  })
+  </script>
+
+</body>
+</html>
+ã±5×>      _3R_3äAýà` ÍQ       :http://minimalsetups.com/ necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 12 Aug 2020 05:34:14 GMT
+Content-Type: text/html; charset=UTF-8
+X-Cache-Enabled: True
+Link: <http://minimalsetups.com/wp-json/>; rel="https://api.w.org/", <https://wp.me/8gGPy>; rel=shortlink
+Cache-Control: max-age=15552000
+Expires: Mon, 08 Feb 2021 05:34:14 GMT
+alt-svc: quic=":443"; ma=86400; v="43,39"
+Host-Header: b7440e60b07ee7b8044761568fab26e8
+X-Proxy-Cache: MISS
+ original-response-headers Server: nginx
+Date: Wed, 12 Aug 2020 05:34:14 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Cache-Enabled: True
+Link: <http://minimalsetups.com/wp-json/>; rel="https://api.w.org/", <https://wp.me/8gGPy>; rel=shortlink
+Set-Cookie: wpSGCacheBypass=0; expires=Wed, 12-Aug-2020 04:34:14 GMT; Max-Age=0; path=/
+Cache-Control: max-age=15552000
+Expires: Mon, 08 Feb 2021 05:34:14 GMT
+alt-svc: quic=":443"; ma=86400; v="43,39"
+Host-Header: b7440e60b07ee7b8044761568fab26e8
+X-Proxy-Cache: MISS
+ ctid 1 uncompressed-len 0 predictor::resource-count 46 predictor::https://www.googletagmanager.com/gtag/js?id=UA-62259641-6 1,1,1597210450,4096 predictor::https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js 1,1,1597210450,4096 predictor::http://minimalsetups.com/wp-content/themes/minimalsetups/scripts/slide-out-menu.js 1,1,1597210450,4096 predictor::http://minimalsetups.com/wp-content/themes/minimalsetups/scripts/swiper.js 1,1,1597210450,4096 predictor::http://minimalsetups.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2 1,1,1597210450,4096 predictor::http://minimalsetups.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.9 1,1,1597210450,4096 predictor::http://minimalsetups.com/wp-content/themes/minimalsetups/style.css?ver=5.4.2 1,1,1597210450,4096 predictor::http://minimalsetups.com/wp-content/plugins/jetpack/css/jetpack.css?ver=8.6.1 1,1,1597210450,4096 predictor::http://minimalsetups.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp 1,1,1597210450,4096 predictor::http://minimalsetups.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 1,1,1597210450,4096 predictor::http://cdn.geni.us/snippet.min.js 1,1,1597210450,4097 predictor::https://www.google-analytics.com/analytics.js 1,1,1597210450,4096 predictor::http://minimalsetups.com/wp-content/themes/minimalsetups/theme/base-min.css 1,1,1597210450,4096 predictor::http://minimalsetups.com/wp-content/themes/minimalsetups/theme/swiper-min.css 1,1,1597210450,4096 predictor::http://minimalsetups.com/wp-content/themes/minimalsetups/theme/theme.css 1,1,1597210450,4096 predictor::https://rsms.me/inter/inter-ui.css 1,1,1597210450,4096 predictor::https://js.createsend1.com/javascript/copypastesubscribeformlogic.js 1,1,1597210450,4096 predictor::http://minimalsetups.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20191001 1,1,1597210450,4096 predictor::http://minimalsetups.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.9 1,1,1597210450,4096 predictor::http://minimalsetups.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.17 1,1,1597210450,4096 predictor::http://minimalsetups.com/wp-content/themes/minimalsetups/js/navigation.js?ver=20151215 1,1,1597210450,4096 predictor::http://minimalsetups.com/wp-content/themes/minimalsetups/js/skip-link-focus-fix.js?ver=20151215 1,1,1597210450,4096 net-response-time-onstart 5435 net-response-time-onstop 22177 predictor::http://minimalsetups.com/wp-content/plugins/jetpack/_inc/build/lazy-images/js/lazy-images.min.js?ver=8.6.1 1,1,1597210450,4096 predictor::http://minimalsetups.com/wp-includes/js/wp-embed.min.js?ver=5.4.2 1,1,1597210450,4096 predictor::https://stats.wp.com/e-202033.js 1,1,1597210450,4096 predictor::http://minimalsetups.com/wp-includes/js/wp-emoji-release.min.js?ver=5.4.2 1,1,1597210450,4096 predictor::https://www.google-analytics.com/r/collect?v=1&_v=j83&a=228395507&t=pageview&_s=1&dl=http%3A%2F%2Fminimalsetups.com%2F&dr=https%3A%2F%2Fduckduckgo.com%2F&ul=en-us&de=UTF-8&dt=MinimalSetups%20%E2%80%93%20Workspace%20and%20home%20office%20inspiration.&sd=24-bit&sr=1366x768&vp=1344x650&je=0&_u=IEBAAUAB~&jid=1648868931&gjid=1587669044&cid=1390602194.1597210481&tid=UA-62259641-6&_gid=657393233.1597210481&_r=1&gtm=2ou871&z=950175414 1,1,1597210450,4096 predictor::https://minimalsetups.disqus.com/count.js 1,1,1597210450,4096 predictor::https://i2.wp.com/minimalsetups.com/wp-content/uploads/2019/07/65883413_501067473969835_4165648560229909599_n.jpg?fit=1080%2C1349 1,1,1597210450,4096 predictor::https://i1.wp.com/minimalsetups.com/wp-content/uploads/2019/05/3-vrQVgL4.jpg?fit=1600%2C1066 1,1,1597210450,4096 predictor::https://i2.wp.com/minimalsetups.com/wp-content/uploads/2018/07/DXSnXvUX4AAogCJ.jpg?fit=1200%2C800 1,1,1597210450,4096 predictor::https://i0.wp.com/minimalsetups.com/wp-content/uploads/2018/07/BeFunky-collage.jpg?fit=1600%2C900 1,1,1597210450,4096 predictor::https://rsms.me/inter/font-files/Inter-Regular.woff2?v=3.13 1,1,1597210450,4096 predictor::https://rsms.me/inter/font-files/Inter-SemiBold.woff2?v=3.13 1,1,1597210450,4096 predictor::https://rsms.me/inter/font-files/Inter-Medium.woff2?v=3.13 1,1,1597210450,4096 predictor::https://rsms.me/inter/font-files/Inter-Bold.woff2?v=3.13 1,1,1597210450,4096 predictor::http://pixel.wp.com/g.gif?v=ext&j=1%3A8.6.1&blog=122188580&post=0&tz=0&srv=minimalsetups.com&host=minimalsetups.com&ref=https%3A%2F%2Fduckduckgo.com%2F&fcp=0&rand=0.722050421212533 1,1,1597210450,4096 predictor::https://i1.wp.com/minimalsetups.com/wp-content/uploads/2019/08/k6kp0f5s55c31.png?resize=800%2C600 1,1,1597210450,4096 predictor::https://i1.wp.com/minimalsetups.com/wp-content/uploads/2018/07/28435706_810925989096030_808718539128045568_n.jpg?zoom=2&resize=800%2C600 1,1,1597210450,4096 predictor::https://i2.wp.com/minimalsetups.com/wp-content/uploads/2018/07/1-OgqM5Z9.jpg?zoom=2&resize=800%2C600 1,1,1597210450,4096 predictor::https://i0.wp.com/minimalsetups.com/wp-content/uploads/2019/07/ki0hlofkqeh21.jpg?resize=800%2C600 1,1,1597210450,4096 predictor::https://i0.wp.com/minimalsetups.com/wp-content/uploads/2019/03/53086901_146896109678794_1831470619730265400_n.jpg?resize=800%2C600 1,1,1597210450,4096 predictor::https://i2.wp.com/minimalsetups.com/wp-content/uploads/2019/07/a0eSHu3PG2QEUP6uYmOnfOUtwx1DMoUoICxAeDmshKQ.jpg?resize=800%2C600 1,1,1597210450,4096 predictor::https://i0.wp.com/minimalsetups.com/wp-content/uploads/2019/07/3-VXiveU3.jpg?resize=800%2C600 1,1,1597210450,4096 predictor::https://i1.wp.com/minimalsetups.com/wp-content/uploads/2019/07/0zmbxowo4c731.jpg?resize=800%2C600 1,1,1597210450,4096 predictor::https://i0.wp.com/minimalsetups.com/wp-content/uploads/2019/07/y77G4nu93-vsU8z1BIimC6uC3O0BO8SCMz3OatCfN_s.jpg?resize=750%2C600 1,1,1597210450,4096   ­Œ

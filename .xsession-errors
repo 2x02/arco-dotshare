@@ -1,0 +1,267 @@
+/home/su/.Xresources:44:2: error: invalid preprocessing directive #URxvt
+   44 | #URxvt*saveline:         15000
+      |  ^~~~~
+/home/su/.Xresources:45:2: error: invalid preprocessing directive #URxvt
+   45 | #URxvt*termName:         xterm-256color
+      |  ^~~~~
+/home/su/.Xresources:46:2: error: invalid preprocessing directive #URxvt
+   46 | #URxvt*urgentOnBell:     false
+      |  ^~~~~
+/home/su/.Xresources:47:2: error: invalid preprocessing directive #URxvt
+   47 | #URxvt*visualBell:       false
+      |  ^~~~~
+/home/su/.Xresources:48:2: error: invalid preprocessing directive #URxvt
+   48 | #URxvt*iso14755:         false
+      |  ^~~~~
+/home/su/.Xresources:49:2: error: invalid preprocessing directive #URxvt
+   49 | #URxvt*iso14755_52:      false
+      |  ^~~~~
+/home/su/.Xresources:50:2: error: invalid preprocessing directive #xvt
+   50 | #xvt*meta8:            false
+      |  ^~~
+/home/su/.Xresources:51:2: error: invalid preprocessing directive #URxvt
+   51 | #URxvt*metaSendsEscape:  true
+      |  ^~~~~
+/home/su/.Xresources:52:2: error: invalid preprocessing directive #URxvt
+   52 | #URxvt*iconFile:    /usr/share/icons/Sardi-Mono/scalable/apps/terminal.svg
+      |  ^~~~~
+/home/su/.Xresources:54:2: error: invalid preprocessing directive #!
+   54 | #! appearance
+      |  ^
+/home/su/.Xresources:55:2: error: invalid preprocessing directive #URxvt
+   55 | #URxvt*depth:             32
+      |  ^~~~~
+/home/su/.Xresources:56:2: error: invalid preprocessing directive #!
+   56 | #!URxvt*transparent:      true
+      |  ^
+/home/su/.Xresources:57:2: error: invalid preprocessing directive #URxvt
+   57 | #URxvt*shading:          30
+      |  ^~~~~
+/home/su/.Xresources:58:2: error: invalid preprocessing directive #URxvt
+   58 | #URxvt*background:       rgba:2222/2222/2222/AAAA
+      |  ^~~~~
+/home/su/.Xresources:59:2: error: invalid preprocessing directive #!
+   59 | #!URxvt*background:       [80]#404552
+      |  ^
+/home/su/.Xresources:60:2: error: invalid preprocessing directive #!
+   60 | #!URxvt*background:       [70]#3F424A
+      |  ^
+/home/su/.Xresources:61:2: error: invalid preprocessing directive #!
+   61 | #!URxvt*background:        [80]#282A36
+      |  ^
+/home/su/.Xresources:62:2: error: invalid preprocessing directive #URxvt
+   62 | #URxvt*foreground:        #F8F8FF
+      |  ^~~~~
+/home/su/.Xresources:63:2: error: invalid preprocessing directive #URxvt
+   63 | #URxvt*underlineColor:    #4682B4
+      |  ^~~~~
+/home/su/.Xresources:64:2: error: invalid preprocessing directive #URxvt
+   64 | #URxvt*highlightColor:    #4682B4
+      |  ^~~~~
+/home/su/.Xresources:65:2: error: invalid preprocessing directive #URxvt
+   65 | #URxvt*throughColor:      Blue
+      |  ^~~~~
+/home/su/.Xresources:66:2: error: invalid preprocessing directive #URxvt
+   66 | #URxvt*cursorColor:       #c5c8c6
+      |  ^~~~~
+/home/su/.Xresources:67:2: error: invalid preprocessing directive #URxvt
+   67 | #URxvt*scrollBar:         false
+      |  ^~~~~
+/home/su/.Xresources:68:2: error: invalid preprocessing directive #URxvt
+   68 | #URxvt*scrollTtyOutput:   false
+      |  ^~~~~
+/home/su/.Xresources:69:2: error: invalid preprocessing directive #URxvt
+   69 | #URxvt*scrollWithBuffer:  true
+      |  ^~~~~
+/home/su/.Xresources:70:2: error: invalid preprocessing directive #URxvt
+   70 | #URxvt*scrollTtyKeypress: true
+      |  ^~~~~
+/home/su/.Xresources:71:2: error: invalid preprocessing directive #URxvt
+   71 | #URxvt*internalBorder:    0
+      |  ^~~~~
+/home/su/.Xresources:72:2: error: invalid preprocessing directive #URxvt
+   72 | #URxvt*externalBorder:    0
+      |  ^~~~~
+/home/su/.Xresources:73:2: error: invalid preprocessing directive #URxvt
+   73 | #URxvt*colorIT:        #87af5f
+      |  ^~~~~
+/home/su/.Xresources:74:2: error: invalid preprocessing directive #URxvt
+   74 | #URxvt*colorBD:        #c5c8c6
+      |  ^~~~~
+/home/su/.Xresources:75:2: error: invalid preprocessing directive #URxvt
+   75 | #URxvt*colorUL:        #87afd7
+      |  ^~~~~
+/home/su/.Xresources:78:2: error: invalid preprocessing directive #!
+   78 | #! colors
+      |  ^
+/home/su/.Xresources:79:2: error: invalid preprocessing directive #URxvt
+   79 | #URxvt*color0: #3f3f3f
+      |  ^~~~~
+/home/su/.Xresources:80:2: error: invalid preprocessing directive #URxvt
+   80 | #URxvt*color1: #ac3c3c
+      |  ^~~~~
+/home/su/.Xresources:81:2: error: invalid preprocessing directive #URxvt
+   81 | #URxvt*color2: #60b48a
+      |  ^~~~~
+/home/su/.Xresources:82:2: error: invalid preprocessing directive #URxvt
+   82 | #URxvt*color3: #dfaf8f
+      |  ^~~~~
+/home/su/.Xresources:83:2: error: invalid preprocessing directive #URxvt
+   83 | #URxvt*color4: #506070
+      |  ^~~~~
+/home/su/.Xresources:84:2: error: invalid preprocessing directive #URxvt
+   84 | #URxvt*color5: #dc8cc3
+      |  ^~~~~
+/home/su/.Xresources:85:2: error: invalid preprocessing directive #URxvt
+   85 | #URxvt*color6: #8cd0d3
+      |  ^~~~~
+/home/su/.Xresources:86:2: error: invalid preprocessing directive #URxvt
+   86 | #URxvt*color7: #dcdccc
+      |  ^~~~~
+/home/su/.Xresources:87:2: error: invalid preprocessing directive #URxvt
+   87 | #URxvt*color8: #79A9FF
+      |  ^~~~~
+/home/su/.Xresources:88:2: error: invalid preprocessing directive #URxvt
+   88 | #URxvt*color9: #da6e6e
+      |  ^~~~~
+/home/su/.Xresources:89:2: error: invalid preprocessing directive #URxvt
+   89 | #URxvt*color10: #c3bf9f
+      |  ^~~~~
+/home/su/.Xresources:90:2: error: invalid preprocessing directive #URxvt
+   90 | #URxvt*color11: #f0dfaf
+      |  ^~~~~
+/home/su/.Xresources:91:2: error: invalid preprocessing directive #URxvt
+   91 | #URxvt*color12: #94bff3
+      |  ^~~~~
+/home/su/.Xresources:92:2: error: invalid preprocessing directive #URxvt
+   92 | #URxvt*color13: #ec93d3
+      |  ^~~~~
+/home/su/.Xresources:93:2: error: invalid preprocessing directive #URxvt
+   93 | #URxvt*color14: #93e0e3
+      |  ^~~~~
+/home/su/.Xresources:94:2: error: invalid preprocessing directive #URxvt
+   94 | #URxvt*color15: #ffffff
+      |  ^~~~~
+/home/su/.Xresources:97:2: error: invalid preprocessing directive #URxvt
+   97 | #URxvt*letterSpace:        -2
+      |  ^~~~~
+/home/su/.Xresources:98:2: error: invalid preprocessing directive #URxvt
+   98 | #URxvt*font:                  xft:Monospace:regular:size=12
+      |  ^~~~~
+/home/su/.Xresources:99:2: error: invalid preprocessing directive #URxvt
+   99 | #URxvt*imFont:                xft:Monospace:regular:size=12
+      |  ^~~~~
+/home/su/.Xresources:100:2: error: invalid preprocessing directive #URxvt
+  100 | #URxvt*boldFont:              xft:Monospace:bold:size=12
+      |  ^~~~~
+/home/su/.Xresources:101:2: error: invalid preprocessing directive #URxvt
+  101 | #URxvt*italicFont:            xft:Monospace:italic:size=12
+      |  ^~~~~
+/home/su/.Xresources:102:2: error: invalid preprocessing directive #URxvt
+  102 | #URxvt*boldItalicFont:       xft:Monospace:regular:size=12
+      |  ^~~~~
+/home/su/.Xresources:103:2: error: invalid preprocessing directive #!
+  103 | #! run :.!fc-list | grep <font-name>
+      |  ^
+/home/su/.Xresources:105:2: error: invalid preprocessing directive #!
+  105 | #! perl extensions
+      |  ^
+/home/su/.Xresources:106:2: error: invalid preprocessing directive #URxvt
+  106 | #URxvt*perl-ext-common:  default,clipboard,url-select,keyboard-select,resize-font
+      |  ^~~~~
+/home/su/.Xresources:107:2: error: invalid preprocessing directive #!
+  107 | #!URxvt*perl-ext-common:  default,clipboard,url-select,keyboard-select,tabbed
+      |  ^
+/home/su/.Xresources:109:2: error: invalid preprocessing directive #!
+  109 | #! macros for clipboard and selection
+      |  ^
+/home/su/.Xresources:110:2: error: invalid preprocessing directive #URxvt
+  110 | #URxvt*copyCommand:      xclip -i -selection clipboard
+      |  ^~~~~
+/home/su/.Xresources:111:2: error: invalid preprocessing directive #URxvt
+  111 | #URxvt*pasteCommand:     xclip -o -selection clipboard
+      |  ^~~~~
+/home/su/.Xresources:112:2: error: invalid preprocessing directive #URxvt
+  112 | #URxvt*keysym.M-c:       perl:clipboard:copy
+      |  ^~~~~
+/home/su/.Xresources:113:2: error: invalid preprocessing directive #URxvt
+  113 | #URxvt*keysym.m-v:       perl:clipboard:paste
+      |  ^~~~~
+/home/su/.Xresources:114:2: error: invalid preprocessing directive #URxvt
+  114 | #URxvt*keysym.M-C-v:     perl:clipboard:paste_escaped
+      |  ^~~~~
+/home/su/.Xresources:115:2: error: invalid preprocessing directive #URxvt
+  115 | #URxvt*keysym.M-Escape:  perl:keyboard-select:activate
+      |  ^~~~~
+/home/su/.Xresources:116:2: error: invalid preprocessing directive #URxvt
+  116 | #URxvt*keysym.M-s:       perl:keyboard-select:search
+      |  ^~~~~
+/home/su/.Xresources:117:2: error: invalid preprocessing directive #URxvt
+  117 | #URxvt*keysym.M-u:       perl:url-select:select_next
+      |  ^~~~~
+/home/su/.Xresources:118:2: error: invalid preprocessing directive #URxvt
+  118 | #URxvt*resize-font.smaller: C-Down
+      |  ^~~~~
+/home/su/.Xresources:119:2: error: invalid preprocessing directive #URxvt
+  119 | #URxvt*resize-font.bigger: C-Up
+      |  ^~~~~
+/home/su/.Xresources:120:2: error: invalid preprocessing directive #URxvt
+  120 | #URxvt*urlLauncher:      firefox
+      |  ^~~~~
+/home/su/.Xresources:121:2: error: invalid preprocessing directive #URxvt
+  121 | #URxvt*underlineURLs:    true
+      |  ^~~~~
+/home/su/.Xresources:122:2: error: invalid preprocessing directive #URxvt
+  122 | #URxvt*urlButton:        1
+      |  ^~~~~
+/home/su/.Xresources:123:2: error: invalid preprocessing directive #URxvt
+  123 | #URxvt*geometry:   90x30
+      |  ^~~~~
+/home/su/.Xresources:125:2: error: invalid preprocessing directive #!
+  125 | #! tabbed
+      |  ^
+/home/su/.Xresources:126:2: error: invalid preprocessing directive #URxvt
+  126 | #URxvt*tabbed.tabbar-fg: 4
+      |  ^~~~~
+/home/su/.Xresources:127:2: error: invalid preprocessing directive #URxvt
+  127 | #URxvt*tabbed.tabbar-bg: 16
+      |  ^~~~~
+/home/su/.Xresources:128:2: error: invalid preprocessing directive #URxvt
+  128 | #URxvt*tabbed.tab-fg:    15
+      |  ^~~~~
+/home/su/.Xresources:129:2: error: invalid preprocessing directive #URxvt
+  129 | #URxvt*tabbed.tab-bg:    4
+      |  ^~~~~
+/home/su/.Xresources:130:2: error: invalid preprocessing directive #URxvt
+  130 | #URxvt*buffered:         false
+      |  ^~~~~
+/home/su/.Xresources:131:2: error: invalid preprocessing directive #URxvt
+  131 | #URxvt*keysym.Control-Shift-C: perl:clipboard:copy
+      |  ^~~~~
+/home/su/.Xresources:132:2: error: invalid preprocessing directive #URxvt
+  132 | #URxvt*keysym.Control-Shift-V: perl:clipboard:paste
+      |  ^~~~~
+warning: output HDMI2 not found; ignoring
+conky: error while loading shared libraries: liblua.so.5.3: cannot open shared object file: No such file or directory
+File does not exist: /home/su/.config/autostart/arcolinux-welcome-app.desktop
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+
+(pamac-tray:7750): Gdk-CRITICAL **: 11:53:29.562: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+** (volumeicon:7754): WARNING **: 11:53:29.563: Binding 'AudioRaiseVolume' failed!
+Failed to bind AudioRaiseVolume
+
+** (volumeicon:7754): WARNING **: 11:53:29.563: Binding 'AudioLowerVolume' failed!
+Failed to bind AudioLowerVolume
+
+** (volumeicon:7754): WARNING **: 11:53:29.564: Binding 'AudioMute' failed!
+Failed to bind AudioMute
+[ 12/08/20 11:53:43.340 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400092 (su@planet:~)
+** Message: 11:53:59.389: tray.vala:130: check updates
+** Message: 11:53:59.393: tray.vala:159: 0 updates found
+ThunarThumbnailer: got 0 handle (Queue)
+ThunarThumbnailer: got 0 handle (Error or Ready)
+ThunarThumbnailer: got 0 handle (Finished)
+[ 12/08/20 12:00:01.502 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000c5 (Confirm to replace files)
+[ 12/08/20 12:00:03.057 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000b9 (File Operation Progress)

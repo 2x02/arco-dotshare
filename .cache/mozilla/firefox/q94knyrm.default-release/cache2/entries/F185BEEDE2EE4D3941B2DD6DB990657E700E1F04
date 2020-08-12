@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <link rel="shortcut icon" href="/public/images/favicon.ico">
+    
+    <link rel="stylesheet" href="/public/css/screen.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/public/css/colorbox.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/public/css/tipsy.css" type="text/css" media="screen">
+    
+    <script src="/public/js/jquery.min.js" type="text/javascript"></script>
+    <script src="/public/js/jquery.ui.min.js" type="text/javascript"></script>
+    <script src="/public/js/jquery.colorbox.min.js" type="text/javascript"></script>
+    <script src="/public/js/jquery.tipsy.js" type="text/javascript"></script>
+    <script src="/public/js/ds.js" type="text/javascript"></script>
+    
+    
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-24042959-1']);
+            _gaq.push(['_trackPageview']);
+            
+            (function() {
+              var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+              ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    
+    
+    <title>DotShare.it</title>
+</head>
+
+<body>
+
+<div id="header">
+    <div id="nav">
+        <ul class="label">
+            <li><span class="orange">.</span>share</li>
+        </ul>
+        
+        <ul>
+            <li>guest<span class="gray">@</span>dotshare <span class="gray">[</span>~<span class="gray">]</span> <span class="gray">$</span> ls -a nav/</li>
+            
+            <li><a href="/">..</a></li>
+            <li><a href="/news/">news</a></li>
+            <li><a href="/dots/">browse</a></li>
+            
+            
+            
+            <li><a href="/about/">about</a></li>
+            
+            
+            
+            
+                <li><a href="/login/">login</a></li>
+                <li><a href="/register/">register</a></li>
+            
+        </ul>
+    </div>
+    
+    <div id="donate">
+        <ul>
+            <li><a href="/donate/">donate</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="commands">
+    <div id="command">
+        <p>
+    <span class="dark-gray">guest</span>@<span class="dark-gray">dotshare</span> [<span class="dark-gray">~</span>] <span class="dark-gray">$</span> ls -l news/ | cat
+</p>
+    </div>
+</div>
+
+<div id="container">
+    <div id="categories">
+    <ul>
+        
+            <li class="label">
+                chat/
+                
+                <ul>
+                    
+                        <li><a href="/category/chat/irssi/">irssi</a></li>
+                    
+                        <li><a href="/category/chat/weechat/">weechat</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                emacs/
+                
+                <ul>
+                    
+                        <li><a href="/category/emacs/colors/">colors</a></li>
+                    
+                        <li><a href="/category/emacs/config/">config</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                fms/
+                
+                <ul>
+                    
+                        <li><a href="/category/fms/mc/">mc</a></li>
+                    
+                        <li><a href="/category/fms/ranger/">ranger</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                info/
+                
+                <ul>
+                    
+                        <li><a href="/category/info/conky/">conky</a></li>
+                    
+                        <li><a href="/category/info/dzen2/">dzen2</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                misc/
+                
+                <ul>
+                    
+                        <li><a href="/category/misc/misc/">misc</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                mpd/
+                
+                <ul>
+                    
+                        <li><a href="/category/mpd/ncmpcpp/">ncmpcpp</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                panels/
+                
+                <ul>
+                    
+                        <li><a href="/category/panels/bmpanel/">bmpanel</a></li>
+                    
+                        <li><a href="/category/panels/lxpanel/">lxpanel</a></li>
+                    
+                        <li><a href="/category/panels/pypanel/">pypanel</a></li>
+                    
+                        <li><a href="/category/panels/tint2/">tint2</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                shells/
+                
+                <ul>
+                    
+                        <li><a href="/category/shells/bash/">bash</a></li>
+                    
+                        <li><a href="/category/shells/tcsh/">tcsh</a></li>
+                    
+                        <li><a href="/category/shells/zsh/">zsh</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                terms/
+                
+                <ul>
+                    
+                        <li><a href="/category/terms/colors/">colors</a></li>
+                    
+                        <li><a href="/category/terms/screen/">screen</a></li>
+                    
+                        <li><a href="/category/terms/tmux/">tmux</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                vim/
+                
+                <ul>
+                    
+                        <li><a href="/category/vim/colors/">colors</a></li>
+                    
+                        <li><a href="/category/vim/rc/">rc</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                wms/
+                
+                <ul>
+                    
+                        <li><a href="/category/wms/awesome/">awesome</a></li>
+                    
+                        <li><a href="/category/wms/bspwm/">bspwm</a></li>
+                    
+                        <li><a href="/category/wms/dwm/">dwm</a></li>
+                    
+                        <li><a href="/category/wms/fluxbox/">fluxbox</a></li>
+                    
+                        <li><a href="/category/wms/fvwm/">fvwm</a></li>
+                    
+                        <li><a href="/category/wms/herbstluft/">herbstluft</a></li>
+                    
+                        <li><a href="/category/wms/i3/">i3</a></li>
+                    
+                        <li><a href="/category/wms/monster/">monster</a></li>
+                    
+                        <li><a href="/category/wms/openbox/">openbox</a></li>
+                    
+                        <li><a href="/category/wms/ratpoison/">ratpoison</a></li>
+                    
+                        <li><a href="/category/wms/spectrwm/">spectrwm</a></li>
+                    
+                        <li><a href="/category/wms/stumpwm/">stumpwm</a></li>
+                    
+                        <li><a href="/category/wms/subtle/">subtle</a></li>
+                    
+                        <li><a href="/category/wms/wmfs/">wmfs</a></li>
+                    
+                        <li><a href="/category/wms/xmonad/">xmonad</a></li>
+                    
+                </ul>
+            </li>
+        
+    </ul>
+</div>
+    
+    <div id="content">
+        
+    
+
+        
+    
+        
+            <div class="item">
+                <div class="header">
+                    <h1><span class="gray">-</span>rw<span class="gray">-</span>rw<span class="gray">-</span>r<span class="gray">--</span> <a href="/~Anomareh/">Anomareh</a> <span class="gray">dotshare</span> Feb 28 00:22 <a href="/news/4/Whats-in-DotShares-future/">Whats-in-DotShares-future.md</a></h1>
+                </div>
+                
+                <div class="content markdown">
+                    <p>Hello everyone. I can&rsquo;t believe DotShare has been around for almost 7 years now! We&rsquo;re happy to see submissions still coming in, even if it&rsquo;s only a handful a month. Looking towards the future, we&rsquo;ve started thinking about what a DotShare 2.0 would be and what would serve the community the best.</p>
+
+<p>I think this discussion starts with the question: &ldquo;What is the goal of DotShare?&rdquo; In our mind, it&rsquo;s to provide inspiration for customizing *nix setups.</p>
+
+<p>With that said, our current thoughts are to move away from files and specific programs, the reasoning being twofold. First, most people find it easier to host their dot files on git(Hub). Second, moderating and surfacing submissions per program is unreasonable given how large the ecosystem is for even one category. Also, submitting each program in an entire setup is cumbersome and increases friction to sharing.</p>
+
+<p>So where do we go from here? We think a design that focuses more on sharing complete setups and relies on third party services for distributing files would encourage more to share while utilizing the existing services people are already using.</p>
+
+<p>Well, those are just our thoughts. The main reason for this post is that we&rsquo;re interested in hearing yours! Let us know in the comments what you like and dislike about the current site and what you&rsquo;d like to see in a DotShare 2.0.</p>
+
+<p>Lastly, thank you to everyone who has contributed over the years making DotShare what it is today!</p>
+
+                </div>
+            </div>
+        
+            <div class="item">
+                <div class="header">
+                    <h1><span class="gray">-</span>rw<span class="gray">-</span>rw<span class="gray">-</span>r<span class="gray">--</span> <a href="/~Anomareh/">Anomareh</a> <span class="gray">dotshare</span> Jul 12 18:14 <a href="/news/3/Dashboard-improvements-and-donations/">Dashboard-improvements-and-donations.md</a></h1>
+                </div>
+                
+                <div class="content markdown">
+                    <h3>Dashboard Improvements</h3>
+
+<p>Entries in your activity feed that you haven&rsquo;t previously viewed are now displayed differently.</p>
+
+<p><img src="/public/images/news/dashboard.png" alt="Dashboard Improvements"><br>
+</p>
+
+<h3>Donations</h3>
+
+<p>As you can see, there is now a donate link in the top right.</p>
+
+<p>Donations will be going towards server costs and will help ensure the continued development of DotShare. Any and all donations are welcomed and greatly appreciated! Any amount helps <em>(although we&rsquo;d ask if you could please keep the amount at at least a dollar)</em>.</p>
+
+<p>Thanks to anyone willing to help out!</p>
+
+                </div>
+            </div>
+        
+            <div class="item">
+                <div class="header">
+                    <h1><span class="gray">-</span>rw<span class="gray">-</span>rw<span class="gray">-</span>r<span class="gray">--</span> <a href="/~Anomareh/">Anomareh</a> <span class="gray">dotshare</span> Jun 28 10:13 <a href="/news/2/DotShare-now-with-multi-file-support/">DotShare-now-with-multi-file-support.md</a></h1>
+                </div>
+                
+                <div class="content markdown">
+                    <h3>Multi-File Support</h3>
+
+<p><em>Not sure which file of your awesome config to post?</em></p>
+
+<p><em>Not sure whether or not you should combine your organized config into one monster file to submit it?</em></p>
+
+<p>DotShare now allows multi-file dots! With this, some dots can be made up of quite a few files. We tried to strike a balance between making the information available while not cramming it all in your face at once. We&rsquo;d love to know what you think and if you run into any issues please let us know.</p>
+
+<p>What&rsquo;s to come? We plan to enhance multi-file support with file independent syntax highlighting and group downloading of multi-file dots.</p>
+
+<p><img src="/public/images/news/multi-file.png" alt="Multi-File Support"><br>
+</p>
+
+<h3>Lightbox Gallery Improvements</h3>
+
+<p>Also with this update, we&rsquo;ve improved the lightbox galleries on the site. The titles now display <em>(and link to)</em> more.</p>
+
+<p><img src="/public/images/news/lightbox-gallery-title.png" alt="Lightbox Gallery Title"><br>
+</p>
+
+<h3>Twitter</h3>
+
+<p>Also, we are now on <a href="https://twitter.com/#!/DotShare">Twitter</a>! Follow us to get updates <em>(e.g. new categories)</em> and tweet us your feedback and category requests.</p>
+
+                </div>
+            </div>
+        
+            <div class="item">
+                <div class="header">
+                    <h1><span class="gray">-</span>rw<span class="gray">-</span>rw<span class="gray">-</span>r<span class="gray">--</span> <a href="/~crshd/">crshd</a> <span class="gray">dotshare</span> Jun 21 15:17 <a href="/news/1/Weve-landed/">Weve-landed.md</a></h1>
+                </div>
+                
+                <div class="content markdown">
+                    <h3>We&rsquo;ve landed!</h3>
+
+<p>Everybody knows those monthly <em>&ldquo;Post your &lsquo;some app&rsquo; screenshots!&rdquo;</em> or <em>&ldquo;Post your &lsquo;some app&rsquo; configs!&rdquo;</em> threads on pretty much every distro&rsquo;s forums, and the resulting <em>&ldquo;What&rsquo;s this?&rdquo;</em> and <em>&ldquo;What&rsquo;s that?&rdquo;</em> questions.</p>
+
+<p>This pretty quickly led to an array of different screenshot info grabber tools, which tossed out some information about the used themes, icons, fonts, and other nifty stuff. But one thing they <strong>couldn&rsquo;t</strong> do; actually provide the configuration files. Not to mention these threads were spread over a number of different forums and threads that were hard to organize and keep track of.</p>
+
+<p>And out of that came DotShare. Welcome!</p>
+
+<h3>You can be part of this community!</h3>
+
+<p>Head over to the <a href="http://dotshare.it/register/" title="register @ dotshare">register</a> page and become part of the community.</p>
+
+<p>After you&rsquo;ve signed up, you can <strong>follow your favorite community members</strong> to get updated anytime they submit a new, jaw-dropping dot, or like someone elses. And don&rsquo;t forget to <strong>comment on</strong> and <strong>like</strong> everything you see!</p>
+
+<p>Feel free to join us on IRC (<strong>#dotshare</strong>@freenode) for a nice chat. You can also follow us on <a href="https://twitter.com/#!/DotShare">Twitter</a> for updates <em>(e.g. new categories)</em> as well as tweet us your feedback and category requests.</p>
+
+<h3>We want your feedback!</h3>
+
+<p>We&rsquo;re always looking for ways to improve the experience we offer to our community members. If you have any suggestions - anything from new categories we forgot to add, to completely new features to improve the community - join us on IRC (<strong>#dotshare</strong>@freenode) and let us know!</p>
+
+                </div>
+            </div>
+        
+        
+        
+    
+
+    </div>
+    
+    <div id="footer">&nbsp;</div>
+</div>
+
+<div id="logo">
+    <a href="/"><img src="/public/images/logo.png" width="62" height="63" alt="DotShare.it"></a>
+</div>
+
+</body>
+</html>ºâ+b\           _3~&Aý_3~%       :http://dotshare.it/ strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Date: Wed, 12 Aug 2020 05:29:08 GMT
+Server: Apache/2.4.10 (Unix) PHP/5.5.21 mod_wsgi/4.4.5 Python/2.7.9
+Content-Length: 15833
+Content-Type: text/html; charset=utf-8
+ original-response-headers Date: Wed, 12 Aug 2020 05:29:08 GMT
+Server: Apache/2.4.10 (Unix) PHP/5.5.21 mod_wsgi/4.4.5 Python/2.7.9
+Content-Length: 15833
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=utf-8
+ ctid 1 uncompressed-len 0 predictor::resource-count 18 predictor::http://dotshare.it/public/css/screen.css 1,1,0,4096 predictor::http://dotshare.it/public/css/colorbox.css 1,1,0,4096 predictor::http://dotshare.it/public/css/tipsy.css 1,1,0,4096 predictor::http://dotshare.it/public/js/jquery.min.js 1,1,0,4096 predictor::http://dotshare.it/public/js/jquery.ui.min.js 1,1,0,4096 predictor::http://dotshare.it/public/js/jquery.colorbox.min.js 1,1,0,4096 predictor::http://dotshare.it/public/js/jquery.tipsy.js 1,1,0,4096 predictor::http://dotshare.it/public/js/ds.js 1,1,0,4096 predictor::http://dotshare.it/public/images/news/dashboard.png 1,1,0,4096 predictor::http://dotshare.it/public/images/news/multi-file.png 1,1,0,4096 predictor::http://dotshare.it/public/images/news/lightbox-gallery-title.png 1,1,0,4096 predictor::http://dotshare.it/public/images/logo.png 1,1,0,4096 predictor::http://www.google-analytics.com/ga.js 1,1,0,4096 predictor::http://dotshare.it/images/cup.png 1,1,0,4096 predictor::http://dotshare.it/public/fonts/envy-code-r/envy-code-r-webfont.ttf 1,1,0,4096 predictor::http://dotshare.it/images/loading.gif 1,1,0,4096 predictor::http://dotshare.it/images/colorbox_controls.png 1,1,0,4096 predictor::http://dotshare.it/public/images/cup.png 1,1,0,4096   =Ù

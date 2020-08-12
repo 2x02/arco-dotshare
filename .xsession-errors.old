@@ -1,0 +1,153 @@
+warning: output HDMI2 not found; ignoring
+conky: error while loading shared libraries: liblua.so.5.3: cannot open shared object file: No such file or directory
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+File does not exist: /home/su/.config/autostart/arcolinux-welcome-app.desktop
+
+** (volumeicon:533): WARNING **: 10:50:52.795: Binding 'AudioRaiseVolume' failed!
+Failed to bind AudioRaiseVolume
+
+** (volumeicon:533): WARNING **: 10:50:52.796: Binding 'AudioLowerVolume' failed!
+Failed to bind AudioLowerVolume
+
+** (volumeicon:533): WARNING **: 10:50:52.796: Binding 'AudioMute' failed!
+Failed to bind AudioMute
+
+(pamac-tray:529): Gdk-CRITICAL **: 10:50:52.818: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+** Message: 10:51:21.790: tray.vala:130: check updates
+** Message: 10:51:21.845: tray.vala:159: 0 updates found
+[ 12/08/20 10:53:02.008 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040008c (su@planet:~)
+[ 12/08/20 10:53:37.196 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040009a (Terminal Preferences)
+[ 12/08/20 10:53:45.647 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000a6 (Authenticate)
+
+(grub-customizer:826): Gtk-CRITICAL **: 10:54:19.166: gtk_text_buffer_emit_insert: assertion 'g_utf8_validate (text, len, NULL)' failed
+
+(grub-customizer:826): dconf-WARNING **: 10:54:25.147: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=e561c6473ba54efca7d1b7a4cc112d77 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(grub-customizer:826): dconf-WARNING **: 10:54:25.177: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=e561c6473ba54efca7d1b7a4cc112d77 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(grub-customizer:826): dconf-WARNING **: 10:54:25.200: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=e561c6473ba54efca7d1b7a4cc112d77 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(grub-customizer:826): dconf-WARNING **: 10:54:25.220: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=e561c6473ba54efca7d1b7a4cc112d77 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(grub-customizer:826): dconf-WARNING **: 10:54:25.237: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=e561c6473ba54efca7d1b7a4cc112d77 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(grub-customizer:826): dconf-WARNING **: 10:54:25.256: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=e561c6473ba54efca7d1b7a4cc112d77 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(grub-customizer:826): dconf-WARNING **: 10:54:25.273: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=e561c6473ba54efca7d1b7a4cc112d77 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(grub-customizer:826): dconf-WARNING **: 10:54:25.291: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=e561c6473ba54efca7d1b7a4cc112d77 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(grub-customizer:826): dconf-WARNING **: 10:54:25.309: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=e561c6473ba54efca7d1b7a4cc112d77 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(grub-customizer:826): dconf-WARNING **: 10:54:25.329: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=e561c6473ba54efca7d1b7a4cc112d77 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(grub-customizer:826): dconf-WARNING **: 10:54:25.351: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=e561c6473ba54efca7d1b7a4cc112d77 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(grub-customizer:826): dconf-WARNING **: 10:54:25.367: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=e561c6473ba54efca7d1b7a4cc112d77 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(grub-customizer:826): dconf-WARNING **: 10:54:25.384: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=e561c6473ba54efca7d1b7a4cc112d77 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(grub-customizer:826): dconf-WARNING **: 10:54:25.401: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=e561c6473ba54efca7d1b7a4cc112d77 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(grub-customizer:826): dconf-WARNING **: 10:54:26.924: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=e561c6473ba54efca7d1b7a4cc112d77 --binary-syntax --close-stderr”: Child process exited with code 1
+
+(grub-customizer:826): dconf-WARNING **: 10:54:26.925: failed to commit changes to dconf: Error spawning command line “dbus-launch --autolaunch=e561c6473ba54efca7d1b7a4cc112d77 --binary-syntax --close-stderr”: Child process exited with code 1
+[ 12/08/20 10:54:26.940 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000bc (Select a File)
+[ 12/08/20 10:55:30.525 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000c8 ((null))
+[ 12/08/20 10:55:30.855 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000b1 (Grub Customizer)
+[ 12/08/20 10:56:17.799 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400093 (Settings)
+[ 12/08/20 10:56:43.294 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000e2 (Authenticate)
+
+(termite:2874): GLib-WARNING **: 10:57:08.676: GChildWatchSource: Exit status of a child process was requested but ECHILD was received by waitpid(). See the documentation of g_child_watch_source_new() for possible causes.
+
+(xfce4-color-settings:2933): Gtk-CRITICAL **: 10:58:01.005: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+[ 12/08/20 10:58:56.442 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000fd (Kvantum Preview)
+[ 12/08/20 10:59:01.260 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400106 (Open Kvantum Theme Folder...)
+[ 12/08/20 10:59:03.953 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000f2 (Kvantum Manager)
+[ 12/08/20 11:01:06.334 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400110 (Opening colors)
+i3status: exiting due to signal.
+[ 12/08/20 11:10:36.654 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400121 (su@planet:~)
+[ 12/08/20 11:10:36.654 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400087 (i3bar for output eDP1)
+[ 12/08/20 11:10:36.903 session_init FATAL ERROR ] Another composite manager is already running
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+i3status: exiting due to signal.
+[ 12/08/20 11:30:38.877 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400078 (su@planet:~)
+[ 12/08/20 11:30:38.878 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000ae (i3bar for output eDP1)
+[ 12/08/20 11:30:39.103 session_init FATAL ERROR ] Another composite manager is already running
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+[ 12/08/20 11:30:48.150 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000bb (su@planet:~)
+[ 12/08/20 11:31:29.070 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000c7 (Mozilla Firefox)
+[ 12/08/20 11:31:29.915 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000c1 (su@planet:~)
+[ 12/08/20 11:31:35.434 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000d1 (su@planet:~)
+i3status: exiting due to signal.
+[ 12/08/20 11:36:09.576 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000d7 (su@planet:~/.config/i3)
+[ 12/08/20 11:36:09.807 session_init FATAL ERROR ] Another composite manager is already running
+/bin/sh: /home/su/.config/i3/weechat.conf: Permission denied
+[../i3-4.18.2/../i3-4.18.2/i3bar/src/child.c:382] ERROR: stdin: received EOF
+[../i3-4.18.2/../i3-4.18.2/i3bar/src/child.c:504] ERROR: Child (pid: 3695) unexpectedly exited with status 126
+[ 12/08/20 11:36:11.146 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040007a (su@planet:~/.config/i3)
+[ 12/08/20 11:36:11.146 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400078 (su@planet:~)
+[ 12/08/20 11:36:11.146 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000b5 (i3bar for output eDP1)
+[ 12/08/20 11:36:11.386 session_init FATAL ERROR ] Another composite manager is already running
+/bin/sh: /home/su/.config/i3/weechat.conf: Permission denied
+[../i3-4.18.2/../i3-4.18.2/i3bar/src/child.c:382] ERROR: stdin: received EOF
+[../i3-4.18.2/../i3-4.18.2/i3bar/src/child.c:504] ERROR: Child (pid: 3703) unexpectedly exited with status 126
+[ 12/08/20 11:36:29.527 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040007a (su@planet:~/.config/i3)
+[ 12/08/20 11:36:29.527 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400078 (su@planet:~)
+[ 12/08/20 11:36:29.527 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000b5 (i3bar for output eDP1)
+[ 12/08/20 11:36:29.740 session_init FATAL ERROR ] Another composite manager is already running
+/bin/sh: /home/su/.config/i3/weechat.conf: Permission denied
+[../i3-4.18.2/../i3-4.18.2/i3bar/src/child.c:504] ERROR: Child (pid: 3716) unexpectedly exited with status 126
+[ 12/08/20 11:36:44.687 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040007a (su@planet:~/.config/i3)
+[ 12/08/20 11:36:44.687 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400078 (su@planet:~)
+[ 12/08/20 11:36:44.688 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000b5 (i3bar for output eDP1)
+[ 12/08/20 11:36:44.913 session_init FATAL ERROR ] Another composite manager is already running
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+WARNING: 2020-08-12 11:40:22,999: create_menu() 'Variety Slideshow is not installed. This is an optional extension adding pan-and-zoom slideshows to Variety: see https://github.com/peterlevi/variety-slideshow for details'
+
+(variety:3762): Gdk-CRITICAL **: 11:40:23.220: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+No such schema “org.cinnamon.desktop.background”
+No such schema “org.cinnamon.desktop.background”
+Variety is already running. Sending the command to the running instance.
+No such schema “org.cinnamon.desktop.background”
+Variety is already running. Sending the command to the running instance.
+No such schema “org.cinnamon.desktop.background”
+Variety is already running. Sending the command to the running instance.
+No such schema “org.cinnamon.desktop.background”
+** Message: 11:46:27.761: tray.vala:130: check updates
+** Message: 11:46:27.764: tray.vala:159: 0 updates found
+** Message: 11:46:43.298: tray.vala:130: check updates
+** Message: 11:46:43.301: tray.vala:159: 0 updates found
+** Message: 11:47:01.528: tray.vala:130: check updates
+** Message: 11:47:01.532: tray.vala:159: 0 updates found
+** Message: 11:50:03.145: tray.vala:130: check updates
+** Message: 11:50:03.148: tray.vala:159: 0 updates found
+** Message: 11:50:07.534: tray.vala:130: check updates
+** Message: 11:50:07.537: tray.vala:159: 0 updates found
+** Message: 11:50:19.966: tray.vala:130: check updates
+** Message: 11:50:19.970: tray.vala:159: 0 updates found
+** Message: 11:50:48.124: tray.vala:130: check updates
+** Message: 11:50:48.128: tray.vala:159: 0 updates found
+** Message: 11:50:51.383: tray.vala:130: check updates
+** Message: 11:50:51.387: tray.vala:159: 0 updates found
+** Message: 11:50:56.105: tray.vala:130: check updates
+** Message: 11:50:56.108: tray.vala:159: 0 updates found
+** Message: 11:52:06.871: tray.vala:130: check updates
+** Message: 11:52:06.874: tray.vala:159: 0 updates found
+i3status: exiting due to signal.
+[ 12/08/20 11:52:11.267 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040007a (su@planet:~/Documents/tmp/bar)
+[ 12/08/20 11:52:11.267 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400078 (su@planet:~)
+[ 12/08/20 11:52:11.482 session_init FATAL ERROR ] Another composite manager is already running
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+** Message: 11:52:37.042: tray.vala:130: check updates
+** Message: 11:52:37.045: tray.vala:159: 0 updates found
+** Message: 11:52:51.135: tray.vala:130: check updates
+** Message: 11:52:51.139: tray.vala:159: 0 updates found
+** Message: 11:52:55.795: tray.vala:130: check updates
+** Message: 11:52:55.798: tray.vala:159: 0 updates found
+i3status: exiting due to signal.

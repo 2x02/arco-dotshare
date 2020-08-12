@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <link rel="shortcut icon" href="/public/images/favicon.ico">
+    
+    <link rel="stylesheet" href="/public/css/screen.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/public/css/colorbox.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/public/css/tipsy.css" type="text/css" media="screen">
+    
+    <script src="/public/js/jquery.min.js" type="text/javascript"></script>
+    <script src="/public/js/jquery.ui.min.js" type="text/javascript"></script>
+    <script src="/public/js/jquery.colorbox.min.js" type="text/javascript"></script>
+    <script src="/public/js/jquery.tipsy.js" type="text/javascript"></script>
+    <script src="/public/js/ds.js" type="text/javascript"></script>
+    
+    
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-24042959-1']);
+            _gaq.push(['_trackPageview']);
+            
+            (function() {
+              var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+              ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    
+    
+    <title>DotShare.it</title>
+</head>
+
+<body>
+
+<div id="header">
+    <div id="nav">
+        <ul class="label">
+            <li><span class="orange">.</span>share</li>
+        </ul>
+        
+        <ul>
+            <li>guest<span class="gray">@</span>dotshare <span class="gray">[</span>~<span class="gray">]</span> <span class="gray">$</span> ls -a nav/</li>
+            
+            <li><a href="/">..</a></li>
+            <li><a href="/news/">news</a></li>
+            <li><a href="/dots/">browse</a></li>
+            
+            
+            
+            <li><a href="/about/">about</a></li>
+            
+            
+            
+            
+                <li><a href="/login/">login</a></li>
+                <li><a href="/register/">register</a></li>
+            
+        </ul>
+    </div>
+    
+    <div id="donate">
+        <ul>
+            <li><a href="/donate/">donate</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="commands">
+    <div id="command">
+        <p>
+    <span class="dark-gray">guest</span>@<span class="dark-gray">dotshare</span> [<span class="dark-gray">/home/mohabaks</span>] <span class="dark-gray">$</span>
+</p>
+    </div>
+</div>
+
+<div id="container">
+    <div id="categories">
+    <ul>
+        
+            <li class="label">
+                chat/
+                
+                <ul>
+                    
+                        <li><a href="/category/chat/irssi/">irssi</a></li>
+                    
+                        <li><a href="/category/chat/weechat/">weechat</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                emacs/
+                
+                <ul>
+                    
+                        <li><a href="/category/emacs/colors/">colors</a></li>
+                    
+                        <li><a href="/category/emacs/config/">config</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                fms/
+                
+                <ul>
+                    
+                        <li><a href="/category/fms/mc/">mc</a></li>
+                    
+                        <li><a href="/category/fms/ranger/">ranger</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                info/
+                
+                <ul>
+                    
+                        <li><a href="/category/info/conky/">conky</a></li>
+                    
+                        <li><a href="/category/info/dzen2/">dzen2</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                misc/
+                
+                <ul>
+                    
+                        <li><a href="/category/misc/misc/">misc</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                mpd/
+                
+                <ul>
+                    
+                        <li><a href="/category/mpd/ncmpcpp/">ncmpcpp</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                panels/
+                
+                <ul>
+                    
+                        <li><a href="/category/panels/bmpanel/">bmpanel</a></li>
+                    
+                        <li><a href="/category/panels/lxpanel/">lxpanel</a></li>
+                    
+                        <li><a href="/category/panels/pypanel/">pypanel</a></li>
+                    
+                        <li><a href="/category/panels/tint2/">tint2</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                shells/
+                
+                <ul>
+                    
+                        <li><a href="/category/shells/bash/">bash</a></li>
+                    
+                        <li><a href="/category/shells/tcsh/">tcsh</a></li>
+                    
+                        <li><a href="/category/shells/zsh/">zsh</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                terms/
+                
+                <ul>
+                    
+                        <li><a href="/category/terms/colors/">colors</a></li>
+                    
+                        <li><a href="/category/terms/screen/">screen</a></li>
+                    
+                        <li><a href="/category/terms/tmux/">tmux</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                vim/
+                
+                <ul>
+                    
+                        <li><a href="/category/vim/colors/">colors</a></li>
+                    
+                        <li><a href="/category/vim/rc/">rc</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                wms/
+                
+                <ul>
+                    
+                        <li><a href="/category/wms/awesome/">awesome</a></li>
+                    
+                        <li><a href="/category/wms/bspwm/">bspwm</a></li>
+                    
+                        <li><a href="/category/wms/dwm/">dwm</a></li>
+                    
+                        <li><a href="/category/wms/fluxbox/">fluxbox</a></li>
+                    
+                        <li><a href="/category/wms/fvwm/">fvwm</a></li>
+                    
+                        <li><a href="/category/wms/herbstluft/">herbstluft</a></li>
+                    
+                        <li><a href="/category/wms/i3/">i3</a></li>
+                    
+                        <li><a href="/category/wms/monster/">monster</a></li>
+                    
+                        <li><a href="/category/wms/openbox/">openbox</a></li>
+                    
+                        <li><a href="/category/wms/ratpoison/">ratpoison</a></li>
+                    
+                        <li><a href="/category/wms/spectrwm/">spectrwm</a></li>
+                    
+                        <li><a href="/category/wms/stumpwm/">stumpwm</a></li>
+                    
+                        <li><a href="/category/wms/subtle/">subtle</a></li>
+                    
+                        <li><a href="/category/wms/wmfs/">wmfs</a></li>
+                    
+                        <li><a href="/category/wms/xmonad/">xmonad</a></li>
+                    
+                </ul>
+            </li>
+        
+    </ul>
+</div>
+    
+    <div id="content">
+        
+    
+
+        
+    <div class="item">
+        <div class="header">
+            <h1>mohabaks's Profile<span class="light-orange"></span></h1>
+        </div>
+        
+        <div class="content">
+            
+                <p>mohabaks hasn't filled out their profile yet.</p>
+            
+            
+            
+            
+            
+                <table id="dots">
+                    <caption>Recent Dots (<a href="/~mohabaks/dots/">6</a>)</caption>
+                    
+                    <tbody>
+                        
+                            
+                                <tr>
+                                    <td><a href="/dots/8409/">Quarantine with Qubes OS</a></td>
+                                    <td><em>(wms/bspwm)</em></td>
+                                    <td>Jul 12, 2020</td>
+                                    <td class="likes">&nbsp;</td>
+                                    <td class="comments">&nbsp;</td>
+                                    <td>
+                                        
+                                            <a href="/public/images/uploads/8409.png" rel="scrot" title="Quarantine with Qubes OS:mohabaks:wms:bspwm"><img src="/public/images/scrot.png" width="16" height="16" alt="scrot"></a>
+                                        
+                                    </td>
+                                </tr>
+                            
+                                <tr>
+                                    <td><a href="/dots/8351/">Dark Arch</a></td>
+                                    <td><em>(wms/bspwm)</em></td>
+                                    <td>Feb 22, 2019</td>
+                                    <td class="likes">&nbsp;</td>
+                                    <td class="comments">1</td>
+                                    <td>
+                                        
+                                            <a href="/public/images/uploads/8351.png" rel="scrot" title="Dark Arch:mohabaks:wms:bspwm"><img src="/public/images/scrot.png" width="16" height="16" alt="scrot"></a>
+                                        
+                                    </td>
+                                </tr>
+                            
+                                <tr>
+                                    <td><a href="/dots/8326/">Black_Admin_Minimal_Rice</a></td>
+                                    <td><em>(wms/i3)</em></td>
+                                    <td>Oct 09, 2018</td>
+                                    <td class="likes">&nbsp;</td>
+                                    <td class="comments">&nbsp;</td>
+                                    <td>
+                                        
+                                            <a href="/public/images/uploads/8326.png" rel="scrot" title="Black_Admin_Minimal_Rice:mohabaks:wms:i3"><img src="/public/images/scrot.png" width="16" height="16" alt="scrot"></a>
+                                        
+                                    </td>
+                                </tr>
+                            
+                                <tr>
+                                    <td><a href="/dots/8244/">Minimalism</a></td>
+                                    <td><em>(wms/i3)</em></td>
+                                    <td>Dec 09, 2017</td>
+                                    <td class="likes">+7</td>
+                                    <td class="comments">&nbsp;</td>
+                                    <td>
+                                        
+                                            <a href="/public/images/uploads/8244.png" rel="scrot" title="Minimalism:mohabaks:wms:i3"><img src="/public/images/scrot.png" width="16" height="16" alt="scrot"></a>
+                                        
+                                    </td>
+                                </tr>
+                            
+                                <tr>
+                                    <td><a href="/dots/1500/">my-gruvbox-rice</a></td>
+                                    <td><em>(wms/i3)</em></td>
+                                    <td>Jul 02, 2017</td>
+                                    <td class="likes">+2</td>
+                                    <td class="comments">&nbsp;</td>
+                                    <td>
+                                        
+                                            <a href="/public/images/uploads/1500.png" rel="scrot" title="my-gruvbox-rice:mohabaks:wms:i3"><img src="/public/images/scrot.png" width="16" height="16" alt="scrot"></a>
+                                        
+                                    </td>
+                                </tr>
+                            
+                                <tr>
+                                    <td><a href="/dots/1435/">First post here :)</a></td>
+                                    <td><em>(wms/i3)</em></td>
+                                    <td>Feb 04, 2017</td>
+                                    <td class="likes">+3</td>
+                                    <td class="comments">6</td>
+                                    <td>
+                                        
+                                            <a href="/public/images/uploads/1435.png" rel="scrot" title="First post here :):mohabaks:wms:i3"><img src="/public/images/scrot.png" width="16" height="16" alt="scrot"></a>
+                                        
+                                    </td>
+                                </tr>
+                            
+                        
+                    </tbody>
+                </table>
+            
+            
+            
+                <h2>Recent Activity</h2>
+                <ul id="feed">
+                    
+                        <li>
+                            
+                                
+                                    <img src="/public/images/dot_edit.png" width="16" height="16" alt="Dot edited."> <a href="/~mohabaks/">mohabaks</a> <strong class="good-action">edited</strong> their <strong class="neutral-action">dot</strong> <a href="/dots/8409/">Quarantine with Qubes OS</a> in <span class="light-orange">(wms/<a href="/category/wms/bspwm/">bspwm</a>)</span>
+                                
+                            
+                            
+                            about <strong class="light-orange">1 month ago</strong>.
+                        </li>
+                    
+                        <li>
+                            
+                                
+                                    <img src="/public/images/dot_new.png" width="16" height="16" alt="Dot created."> <a href="/~mohabaks/">mohabaks</a> <strong class="good-action">created</strong> the <strong class="neutral-action">dot</strong> <a href="/dots/8409/">Quarantine with Qubes OS</a> in <span class="light-orange">(wms/<a href="/category/wms/bspwm/">bspwm</a>)</span>
+                                
+                            
+                            
+                            about <strong class="light-orange">1 month ago</strong>.
+                        </li>
+                    
+                        <li>
+                            
+                                
+                                    <img src="/public/images/dot_new.png" width="16" height="16" alt="Dot created."> <a href="/~mohabaks/">mohabaks</a> <strong class="good-action">created</strong> the <strong class="neutral-action">dot</strong> <a href="/dots/8351/">Dark Arch</a> in <span class="light-orange">(wms/<a href="/category/wms/bspwm/">bspwm</a>)</span>
+                                
+                            
+                            
+                            about <strong class="light-orange">1 year ago</strong>.
+                        </li>
+                    
+                        <li>
+                            
+                                
+                                    <img src="/public/images/dot_edit.png" width="16" height="16" alt="Dot edited."> <a href="/~mohabaks/">mohabaks</a> <strong class="good-action">edited</strong> their <strong class="neutral-action">dot</strong> <a href="/dots/8326/">Black_Admin_Minimal_Rice</a> in <span class="light-orange">(wms/<a href="/category/wms/i3/">i3</a>)</span>
+                                
+                            
+                            
+                            about <strong class="light-orange">1 year ago</strong>.
+                        </li>
+                    
+                        <li>
+                            
+                                
+                                    <img src="/public/images/dot_edit.png" width="16" height="16" alt="Dot edited."> <a href="/~mohabaks/">mohabaks</a> <strong class="good-action">edited</strong> their <strong class="neutral-action">dot</strong> <a href="/dots/8326/">MinalDark</a> in <span class="light-orange">(wms/<a href="/category/wms/i3/">i3</a>)</span>
+                                
+                            
+                            
+                            about <strong class="light-orange">1 year ago</strong>.
+                        </li>
+                    
+                </ul>
+            
+        </div>
+    </div>
+
+    </div>
+    
+    <div id="footer">&nbsp;</div>
+</div>
+
+<div id="logo">
+    <a href="/"><img src="/public/images/logo.png" width="62" height="63" alt="DotShare.it"></a>
+</div>
+
+</body>
+</html>Æ+v'ê.      _3l\_3liAüû»_3l^       :http://dotshare.it/~mohabaks/ necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Date: Wed, 12 Aug 2020 04:13:16 GMT
+Server: Apache/2.4.10 (Unix) PHP/5.5.21 mod_wsgi/4.4.5 Python/2.7.9
+Content-Length: 17534
+Content-Type: text/html; charset=utf-8
+ original-response-headers Date: Wed, 12 Aug 2020 04:13:16 GMT
+Server: Apache/2.4.10 (Unix) PHP/5.5.21 mod_wsgi/4.4.5 Python/2.7.9
+Content-Length: 17534
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=utf-8
+ ctid 1 uncompressed-len 0 predictor::resource-count 18 predictor::http://dotshare.it/public/css/screen.css 1,1,1597205596,4096 predictor::http://dotshare.it/public/css/colorbox.css 1,1,1597205596,4096 predictor::http://dotshare.it/public/css/tipsy.css 1,1,1597205596,4096 predictor::http://dotshare.it/public/js/jquery.min.js 1,1,1597205596,4096 predictor::http://dotshare.it/public/js/jquery.ui.min.js 1,1,1597205596,4096 predictor::http://dotshare.it/public/js/jquery.colorbox.min.js 1,1,1597205596,4096 predictor::http://dotshare.it/public/js/jquery.tipsy.js 1,1,1597205596,4096 predictor::http://dotshare.it/public/js/ds.js 1,1,1597205596,4096 predictor::http://dotshare.it/public/images/scrot.png 1,1,1597205596,4096 predictor::http://www.google-analytics.com/ga.js 1,1,1597205596,4096 predictor::http://dotshare.it/public/images/cup.png 1,1,1597205596,4096 predictor::http://dotshare.it/public/fonts/envy-code-r/envy-code-r-webfont.ttf 1,1,1597205596,4096 predictor::http://dotshare.it/public/images/dot_edit.png 1,1,1597205596,4097 predictor::http://dotshare.it/public/images/dot_new.png 1,1,1597205596,4097 net-response-time-onstart 1745 net-response-time-onstop 3461 predictor::http://dotshare.it/public/images/logo.png 1,1,1597205596,4096 predictor::http://dotshare.it/public/images/loading.gif 1,1,1597205596,4096 predictor::http://dotshare.it/public/images/colorbox_controls.png 1,1,1597205596,4096 predictor::http://dotshare.it/images/cup.png 1,1,1597205596,4096   D~

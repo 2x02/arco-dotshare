@@ -1,0 +1,1691 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <link rel="shortcut icon" href="/public/images/favicon.ico">
+    
+    <link rel="stylesheet" href="/public/css/screen.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/public/css/colorbox.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/public/css/tipsy.css" type="text/css" media="screen">
+    
+    <script src="/public/js/jquery.min.js" type="text/javascript"></script>
+    <script src="/public/js/jquery.ui.min.js" type="text/javascript"></script>
+    <script src="/public/js/jquery.colorbox.min.js" type="text/javascript"></script>
+    <script src="/public/js/jquery.tipsy.js" type="text/javascript"></script>
+    <script src="/public/js/ds.js" type="text/javascript"></script>
+    
+    
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-24042959-1']);
+            _gaq.push(['_trackPageview']);
+            
+            (function() {
+              var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+              ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    
+    
+    <title>DotShare.it</title>
+</head>
+
+<body>
+
+<div id="header">
+    <div id="nav">
+        <ul class="label">
+            <li><span class="orange">.</span>share</li>
+        </ul>
+        
+        <ul>
+            <li>guest<span class="gray">@</span>dotshare <span class="gray">[</span>~<span class="gray">]</span> <span class="gray">$</span> ls -a nav/</li>
+            
+            <li><a href="/">..</a></li>
+            <li><a href="/news/">news</a></li>
+            <li><a href="/dots/">browse</a></li>
+            
+            
+            
+            <li><a href="/about/">about</a></li>
+            
+            
+            
+            
+                <li><a href="/login/">login</a></li>
+                <li><a href="/register/">register</a></li>
+            
+        </ul>
+    </div>
+    
+    <div id="donate">
+        <ul>
+            <li><a href="/donate/">donate</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="commands">
+    <div id="command">
+        <p>
+    <span class="dark-gray">guest</span>@<span class="dark-gray">dotshare</span> [<span class="dark-gray">~/groups/wms/i3</span>] <span class="dark-gray">$</span> ls i3wm-of-jeannie/ | cat
+</p>
+    </div>
+</div>
+
+<div id="container">
+    <div id="categories">
+    <ul>
+        
+            <li class="label">
+                chat/
+                
+                <ul>
+                    
+                        <li><a href="/category/chat/irssi/">irssi</a></li>
+                    
+                        <li><a href="/category/chat/weechat/">weechat</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                emacs/
+                
+                <ul>
+                    
+                        <li><a href="/category/emacs/colors/">colors</a></li>
+                    
+                        <li><a href="/category/emacs/config/">config</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                fms/
+                
+                <ul>
+                    
+                        <li><a href="/category/fms/mc/">mc</a></li>
+                    
+                        <li><a href="/category/fms/ranger/">ranger</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                info/
+                
+                <ul>
+                    
+                        <li><a href="/category/info/conky/">conky</a></li>
+                    
+                        <li><a href="/category/info/dzen2/">dzen2</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                misc/
+                
+                <ul>
+                    
+                        <li><a href="/category/misc/misc/">misc</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                mpd/
+                
+                <ul>
+                    
+                        <li><a href="/category/mpd/ncmpcpp/">ncmpcpp</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                panels/
+                
+                <ul>
+                    
+                        <li><a href="/category/panels/bmpanel/">bmpanel</a></li>
+                    
+                        <li><a href="/category/panels/lxpanel/">lxpanel</a></li>
+                    
+                        <li><a href="/category/panels/pypanel/">pypanel</a></li>
+                    
+                        <li><a href="/category/panels/tint2/">tint2</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                shells/
+                
+                <ul>
+                    
+                        <li><a href="/category/shells/bash/">bash</a></li>
+                    
+                        <li><a href="/category/shells/tcsh/">tcsh</a></li>
+                    
+                        <li><a href="/category/shells/zsh/">zsh</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                terms/
+                
+                <ul>
+                    
+                        <li><a href="/category/terms/colors/">colors</a></li>
+                    
+                        <li><a href="/category/terms/screen/">screen</a></li>
+                    
+                        <li><a href="/category/terms/tmux/">tmux</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                vim/
+                
+                <ul>
+                    
+                        <li><a href="/category/vim/colors/">colors</a></li>
+                    
+                        <li><a href="/category/vim/rc/">rc</a></li>
+                    
+                </ul>
+            </li>
+        
+            <li class="label">
+                wms/
+                
+                <ul>
+                    
+                        <li><a href="/category/wms/awesome/">awesome</a></li>
+                    
+                        <li><a href="/category/wms/bspwm/">bspwm</a></li>
+                    
+                        <li><a href="/category/wms/dwm/">dwm</a></li>
+                    
+                        <li><a href="/category/wms/fluxbox/">fluxbox</a></li>
+                    
+                        <li><a href="/category/wms/fvwm/">fvwm</a></li>
+                    
+                        <li><a href="/category/wms/herbstluft/">herbstluft</a></li>
+                    
+                        <li><a href="/category/wms/i3/">i3</a></li>
+                    
+                        <li><a href="/category/wms/monster/">monster</a></li>
+                    
+                        <li><a href="/category/wms/openbox/">openbox</a></li>
+                    
+                        <li><a href="/category/wms/ratpoison/">ratpoison</a></li>
+                    
+                        <li><a href="/category/wms/spectrwm/">spectrwm</a></li>
+                    
+                        <li><a href="/category/wms/stumpwm/">stumpwm</a></li>
+                    
+                        <li><a href="/category/wms/subtle/">subtle</a></li>
+                    
+                        <li><a href="/category/wms/wmfs/">wmfs</a></li>
+                    
+                        <li><a href="/category/wms/xmonad/">xmonad</a></li>
+                    
+                </ul>
+            </li>
+        
+    </ul>
+</div>
+    
+    <div id="content">
+        
+    
+
+        
+    
+    
+        <div class="item">
+            <div class="header">
+                <h4>i3wm-of-jeannie (<a href="/public/images/uploads/994.png" target="_blank">scrot</a>) (<span class="green">+6</span> <a href="/dots/994/likes/">likes</a>)</h4>
+                <h5><a href="/~defenestre/">defenestre</a> Apr 23, 2015 (wms/<a href="/category/wms/i3/">i3</a>)</h5>
+            </div>
+        </div>
+        
+        <div class="item file">
+            <div class="header">
+                <h4>.Xresources<span class="right">(<a href="/dots/994/0/raw/">raw</a>, <a href="/dots/994/0/dl/">dl</a>)</span></h4>
+            </div>
+            
+            <div class="content">
+                
+                    <div id="scrot">
+                        <p>
+                            <a href="/public/images/uploads/994.png" target="_blank"><img src="/public/images/uploads/994-thumb.png"></a>
+                        </p>
+                        
+                        <div class="overlay">
+                            <p>SCROT</p>
+                        </div>
+                    </div>
+                
+                
+                <div class="dot first">
+                    <table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre>  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 27
+ 28
+ 29
+ 30
+ 31
+ 32
+ 33
+ 34
+ 35
+ 36
+ 37
+ 38
+ 39
+ 40
+ 41
+ 42
+ 43
+ 44
+ 45
+ 46
+ 47
+ 48
+ 49
+ 50
+ 51
+ 52
+ 53
+ 54
+ 55
+ 56
+ 57
+ 58
+ 59
+ 60
+ 61
+ 62
+ 63
+ 64
+ 65
+ 66
+ 67
+ 68
+ 69
+ 70
+ 71
+ 72
+ 73
+ 74
+ 75
+ 76
+ 77
+ 78
+ 79
+ 80
+ 81
+ 82
+ 83
+ 84
+ 85
+ 86
+ 87
+ 88
+ 89
+ 90
+ 91
+ 92
+ 93
+ 94
+ 95
+ 96
+ 97
+ 98
+ 99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+176</pre></div></td><td class="code"><div class="highlight"><pre><span class="k">Emacs24.font:</span><span class="n"> Ubuntu Mono-13</span>
+<span class="k">emacs.font:</span><span class="n"> Ubuntu Mono-13</span>
+<span class="k">emacs.FontBackend:</span><span class="n"> xft</span>
+<span class="k">Xft.antialias:</span><span class="n">  </span><span class="mi">1</span>
+<span class="k">Xft.hinting:</span><span class="n">    </span><span class="mi">1</span>
+<span class="k">Xft.hintstyle:</span><span class="n">  hintfull</span>
+<span class="k">Xft.lcdfilter:</span><span class="n">  lcddefault</span>
+<span class="k">Xft.rgba:</span><span class="n">       rgb</span>
+
+<span class="k">rofi.opacity:</span><span class="n"> </span><span class="mi">85</span>
+<span class="k">rofi.width:</span><span class="n"> </span><span class="mi">1924</span>
+<span class="k">rofi.lines:</span><span class="n"> </span><span class="mi">7</span>
+<span class="k">rofi.columns:</span><span class="n"> </span><span class="mi">4</span>
+<span class="k">rofi.font:</span><span class="n"> SourceCodePro </span><span class="mi">9</span>
+<span class="k">rofi.fg:</span><span class="n"> </span><span class="s">#E5DBCF</span>
+<span class="k">rofi.bg:</span><span class="n"> </span><span class="s">#0F3B5F</span>
+<span class="k">rofi.hlfg:</span><span class="n"> </span><span class="s">#0F3B5F</span>
+<span class="k">rofi.hlbg:</span><span class="n"> </span><span class="s">#CC9752</span>
+<span class="k">rofi.bc:</span><span class="n"> </span><span class="s">#CC9752</span>
+<span class="k">rofi.bw:</span><span class="n"> </span><span class="mi">2</span>
+<span class="k">rofi.location:</span><span class="n"> </span><span class="mi">6</span>
+<span class="k">rofi.padding:</span><span class="n"> </span><span class="mi">2</span>
+<span class="k">rofi.yoffset:</span><span class="n"> </span><span class="mi">-22</span>
+<span class="k">rofi.xoffset:</span><span class="n"> </span><span class="mi">0</span>
+<span class="k">rofi.fixed-num-lines:</span><span class="n"> </span><span class="kp">true</span>
+<span class="k">rofi.hmode:</span><span class="n"> </span><span class="kp">false</span>
+<span class="k">rofi.terminal:</span><span class="n"> x-terminal-emulator</span>
+<span class="k">rofi.ssh-set-title:</span><span class="n"> </span><span class="kp">true</span>
+<span class="k">rofi.disable-history:</span><span class="n"> </span><span class="kp">true</span>
+<span class="k">rofi.key-window:</span><span class="n"> mod4</span><span class="o">+</span><span class="n">Tab</span>
+<span class="k">rofi.key-run:</span><span class="n"> mod4</span><span class="o">+</span><span class="n">p</span>
+<span class="k">rofi.key-ssh:</span><span class="n"> mod1</span><span class="o">+</span><span class="n">F3</span>
+
+<span class="k">urxvt*font:</span><span class="n"> xft</span><span class="o">:</span><span class="n">Droid Sans Mono for Powerline</span><span class="o">:</span><span class="n">size</span><span class="o">=</span><span class="n">12</span><span class="o">:</span><span class="n">antialias</span><span class="o">=</span><span class="kp">true</span>
+<span class="k">!urxvt*font:</span><span class="n"> xft</span><span class="o">:</span><span class="n">Profont</span><span class="o">:</span><span class="n">size</span><span class="o">=</span><span class="n">12</span><span class="o">:</span><span class="n">antialias</span><span class="o">=</span><span class="kp">true</span>
+<span class="k">urxvt*boldFont:</span><span class="n"> xft</span><span class="o">:</span><span class="n">Droid Sans Mono for Powerline</span><span class="o">:</span><span class="n">size</span><span class="o">=</span><span class="n">12</span><span class="o">:</span><span class="n">antialias</span><span class="o">=</span><span class="kp">true</span>
+<span class="k">urxvt*lineSpace:</span><span class="n"> </span><span class="mi">-1</span>
+
+<span class="k">!</span><span class="n"> █▓▒░ interface</span>
+<span class="k">urxvt*transparent:</span><span class="n">       </span><span class="kp">false</span>
+<span class="k">urxvt*loginShell:</span><span class="n">         </span><span class="kp">true</span>
+<span class="k">urxvt*scrollBar:</span><span class="n">         </span><span class="kp">false</span>
+<span class="k">urxvt*secondaryScroll:</span><span class="n">    </span><span class="kp">true</span>
+<span class="k">urxvt*saveLines:</span><span class="n">         </span><span class="mi">65535</span>
+<span class="k">urxvt*cursorBlink:</span><span class="n">       </span><span class="kp">false</span>
+<span class="k">urxvt*urgentOnBell:</span><span class="n">       </span><span class="kp">true</span>
+<span class="k">!urxvt*shading:</span><span class="n"> </span><span class="mi">38</span>
+
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">.foreground</span><span class="o">:</span><span class="n">   </span><span class="s">#c6bcbc</span>
+<span class="o">*</span><span class="n">.foreground</span><span class="o">:</span><span class="n">   </span><span class="s">#c0bebf</span>
+<span class="o">*</span><span class="n">.background</span><span class="o">:</span><span class="n">   </span><span class="s">#2b2222</span>
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">.background</span><span class="o">:</span><span class="n">   </span><span class="s">#181512</span>
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">.background</span><span class="o">:</span><span class="n">   black</span>
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">.cursorColor</span><span class="o">:</span><span class="n">  </span><span class="s">#c0bebf</span>
+<span class="o">*</span><span class="n">.cursorColor</span><span class="o">:</span><span class="n">  </span><span class="s">#F33C5B</span>
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">.cursorColor</span><span class="o">:</span><span class="n">  green</span>
+
+<span class="k">!</span><span class="n"> black</span>
+<span class="o">*</span><span class="n">.color0</span><span class="o">:</span><span class="n">       </span><span class="s">#222222</span>
+<span class="o">*</span><span class="n">.color8</span><span class="o">:</span><span class="n">       </span><span class="s">#272822</span>
+<span class="k">!</span><span class="n"> red</span>
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">.color1</span><span class="o">:</span><span class="n">       </span><span class="s">#aa4450</span>
+<span class="o">*</span><span class="n">.color1</span><span class="o">:</span><span class="n">       red</span>
+<span class="o">*</span><span class="n">.color9</span><span class="o">:</span><span class="n">       </span><span class="s">#ff6a6a</span>
+<span class="k">!</span><span class="n"> green</span>
+<span class="o">*</span><span class="n">.color2</span><span class="o">:</span><span class="n">       </span><span class="s">#719611</span>
+<span class="o">*</span><span class="n">.color10</span><span class="o">:</span><span class="n">      </span><span class="s">#b1d631</span>
+<span class="k">!</span><span class="n"> yellow</span>
+<span class="o">*</span><span class="n">.color3</span><span class="o">:</span><span class="n">       </span><span class="s">#cc8800</span>
+<span class="o">*</span><span class="n">.color11</span><span class="o">:</span><span class="n">      </span><span class="s">#ff9800</span>
+<span class="k">!</span><span class="n"> blue</span>
+<span class="o">*</span><span class="n">.color4</span><span class="o">:</span><span class="n">       </span><span class="s">#6688aa</span>
+<span class="o">*</span><span class="n">.color12</span><span class="o">:</span><span class="n">      </span><span class="s">#90b0d1</span>
+<span class="k">!</span><span class="n"> magenta</span>
+<span class="o">*</span><span class="n">.color5</span><span class="o">:</span><span class="n">       </span><span class="s">#8f6f8f</span>
+<span class="o">*</span><span class="n">.color13</span><span class="o">:</span><span class="n">      </span><span class="s">#8181a6</span>
+<span class="k">!</span><span class="n"> cyan</span>
+<span class="o">*</span><span class="n">.color6</span><span class="o">:</span><span class="n">       </span><span class="s">#528b8b</span>
+<span class="o">*</span><span class="n">.color14</span><span class="o">:</span><span class="n">      </span><span class="s">#87ceeb</span>
+<span class="k">!</span><span class="n"> white</span>
+<span class="o">*</span><span class="n">.color7</span><span class="o">:</span><span class="n">       </span><span class="s">#d3d3d3</span>
+<span class="o">*</span><span class="n">.color15</span><span class="o">:</span><span class="n">      </span><span class="s">#c1cdc1</span>
+
+<span class="k">!</span><span class="n"> █▓▒░ clipboard</span>
+<span class="k">urxvt.perl-ext-common:</span><span class="n"> default,clipboard,keyboard-select</span>
+<span class="k">urxvt.keysym.M-Escape:</span><span class="n"> perl</span><span class="o">:</span><span class="n">keyboard-select</span><span class="o">:</span><span class="n">activate</span>
+<span class="k">urxvt.keysym.M-c:</span><span class="n">   perl</span><span class="o">:</span><span class="n">clipboard</span><span class="o">:</span><span class="n">copy</span>
+<span class="k">urxvt.keysym.C-v:</span><span class="n">   perl</span><span class="o">:</span><span class="n">clipboard</span><span class="o">:</span><span class="n">paste</span>
+<span class="k">urxvt.keysym.M-C-v:</span><span class="n"> perl</span><span class="o">:</span><span class="n">clipboard</span><span class="o">:</span><span class="n">paste_escaped</span>
+<span class="k">urxvt.clipboard.copycmd:</span><span class="n">  xsel </span><span class="nf">-ib</span>
+<span class="k">urxvt.clipboard.pastecmd:</span><span class="n"> xsel </span><span class="nf">-ob</span>
+
+<span class="k">!</span><span class="n"> █▓▒░ misc</span>
+<span class="k">urxvt.saveLines:</span><span class="n"> </span><span class="mi">4095</span>
+<span class="k">urxvt.iso14755:</span><span class="n"> </span><span class="kp">false</span>
+<span class="k">!URxvt*altSendsEscape:</span><span class="n"> </span><span class="kp">true</span>
+
+<span class="k">!</span><span class="n"> ! color scheme</span>
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">background</span><span class="o">:</span><span class="n"> </span><span class="s">#cccccc</span>
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">foreground</span><span class="o">:</span><span class="n"> </span><span class="s">#222222</span>
+<span class="k">!</span><span class="n"> URxvt.background</span><span class="o">:</span><span class="n"> </span><span class="s">#080808</span>
+<span class="k">!</span><span class="n"> URxvt.foreground</span><span class="o">:</span><span class="n"> </span><span class="s">#777777</span>
+<span class="k">!</span><span class="n"> XTerm</span><span class="o">*</span><span class="n">background</span><span class="o">:</span><span class="n"> </span><span class="s">#080808</span>
+<span class="k">!</span><span class="n"> XTerm</span><span class="o">*</span><span class="n">foreground</span><span class="o">:</span><span class="n"> </span><span class="s">#777777</span>
+<span class="k">!</span><span class="n"> ! Black </span><span class="o">+</span><span class="n"> DarkGrey</span>
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">color0</span><span class="o">:</span><span class="n">  </span><span class="s">#1b1b1b</span>
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">color8</span><span class="o">:</span><span class="n">  </span><span class="s">#555555</span>
+<span class="k">!</span><span class="n"> ! Red</span>
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">color1</span><span class="o">:</span><span class="n">  </span><span class="s">#cc4444</span>
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">color9</span><span class="o">:</span><span class="n">  </span><span class="s">#cc335f</span><span class="n"> </span>
+<span class="k">!</span><span class="n"> ! Green</span>
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">color2</span><span class="o">:</span><span class="n">  </span><span class="s">#55aa55</span>
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">color10</span><span class="o">:</span><span class="n"> </span><span class="s">#77aa22</span>
+<span class="k">!</span><span class="n"> ! Yellow</span>
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">color3</span><span class="o">:</span><span class="n">  </span><span class="s">#ee9966</span>
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">color11</span><span class="o">:</span><span class="n"> </span><span class="s">#ffdd88</span>
+<span class="k">!</span><span class="n"> ! Blue</span>
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">color4</span><span class="o">:</span><span class="n">  </span><span class="s">#4477ff</span>
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">color12</span><span class="o">:</span><span class="n"> </span><span class="s">#3388bb</span>
+<span class="k">!</span><span class="n"> ! Magenta</span>
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">color5</span><span class="o">:</span><span class="n">  </span><span class="s">#bb33bb</span>
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">color13</span><span class="o">:</span><span class="n"> </span><span class="s">#9966ff</span>
+<span class="k">!</span><span class="n"> ! Cyan</span>
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">color6</span><span class="o">:</span><span class="n">  </span><span class="s">#22aaaa</span>
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">color14</span><span class="o">:</span><span class="n"> </span><span class="s">#33aa77</span>
+<span class="k">!</span><span class="n"> ! LightGrey </span><span class="o">+</span><span class="n"> White</span>
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">color7</span><span class="o">:</span><span class="n"> </span><span class="s">#808080</span>
+<span class="k">!</span><span class="n"> </span><span class="o">*</span><span class="n">color15</span><span class="o">:</span><span class="n"> </span><span class="s">#ffffff</span>
+<span class="k">!</span><span class="n"> ! font</span>
+<span class="k">!</span><span class="n"> URxvt.font</span><span class="o">:</span><span class="n"> xft</span><span class="o">:</span><span class="n">bitocrafull</span><span class="o">:</span><span class="n">pixelsize</span><span class="o">=</span><span class="n">10,xft</span><span class="o">:</span><span class="n">Taamey Frank CLM</span>
+<span class="k">!</span><span class="n"> xterm</span><span class="o">*</span><span class="n">faceName</span><span class="o">:</span><span class="n"> bitocrafull</span><span class="o">:</span><span class="n">pixelsize</span><span class="o">=</span><span class="mi">10</span>
+<span class="k">!</span><span class="n"> Xft.autohint</span><span class="o">:</span><span class="n"> </span><span class="mi">0</span>
+<span class="k">!</span><span class="n"> Xft.lcdfilter</span><span class="o">:</span><span class="n">  lcddefault</span>
+<span class="k">!</span><span class="n"> Xft.hintstyle</span><span class="o">:</span><span class="n">  hintfull</span>
+<span class="k">!</span><span class="n"> Xft.hinting</span><span class="o">:</span><span class="n"> </span><span class="mi">1</span>
+<span class="k">!</span><span class="n"> Xft.antialias</span><span class="o">:</span><span class="n"> </span><span class="mi">1</span>
+<span class="k">!</span><span class="n"> Xft.rgba</span><span class="o">:</span><span class="n"> rgb</span>
+
+<span class="k">!</span><span class="n"> ! scrollbar</span>
+<span class="k">!</span><span class="n"> URxvt.scrollBar</span><span class="o">:</span><span class="n"> off</span>
+
+<span class="k">!</span><span class="n"> ! selection &amp; link handing</span>
+<span class="k">!</span><span class="n"> URxvt.perl-ext-common</span><span class="o">:</span><span class="n">      default,url-select,keyboard-select,clipboard</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-c</span><span class="o">:</span><span class="n">   perl</span><span class="o">:</span><span class="n">clipboard</span><span class="o">:</span><span class="n">copy</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-v</span><span class="o">:</span><span class="n">   perl</span><span class="o">:</span><span class="n">clipboard</span><span class="o">:</span><span class="n">paste</span>
+<span class="k">!</span><span class="n"> URxvt.url-select.launcher</span><span class="o">:</span><span class="n">  firefox</span>
+<span class="k">!</span><span class="n"> URxvt.url-select.underline</span><span class="o">:</span><span class="n"> </span><span class="kp">true</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-u</span><span class="o">:</span><span class="n">           perl</span><span class="o">:</span><span class="n">url-select</span><span class="o">:</span><span class="n">select_next</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-Escape</span><span class="o">:</span><span class="n">      perl</span><span class="o">:</span><span class="n">keyboard-select</span><span class="o">:</span><span class="n">activate</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-s</span><span class="o">:</span><span class="n">           perl</span><span class="o">:</span><span class="n">keyboard-select</span><span class="o">:</span><span class="n">search</span>
+
+<span class="k">!</span><span class="n"> ! fonts to choose</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-0</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">xft</span><span class="o">:</span><span class="n">bitbuntufull</span><span class="o">:</span><span class="n">pixelsize</span><span class="o">=</span><span class="n">10,xft</span><span class="o">:</span><span class="n">Taamey Frank CLM\007</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-parenright</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">xft</span><span class="o">:</span><span class="n">Ubuntu Mono</span><span class="o">:</span><span class="n">pixelsize</span><span class="o">=</span><span class="n">20,xft</span><span class="o">:</span><span class="n">Taamey Frank CLM\007</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-1</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">xft</span><span class="o">:</span><span class="n">bitocrafull</span><span class="o">:</span><span class="n">pixelsize</span><span class="o">=</span><span class="n">11,xft</span><span class="o">:</span><span class="n">Taamey Frank CLM\007</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-exclam</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">xft</span><span class="o">:</span><span class="n">Ubuntu Mono</span><span class="o">:</span><span class="n">pixelsize</span><span class="o">=</span><span class="n">11</span><span class="o">:</span><span class="n">style</span><span class="o">=</span><span class="n">bold,xft</span><span class="o">:</span><span class="n">Taamey Frank CLM\007</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-2</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">-</span><span class="o">*</span><span class="n">-fixed-medium-r-</span><span class="o">*</span><span class="n">-</span><span class="o">*</span><span class="n">-12-</span><span class="o">*</span><span class="n">,xft</span><span class="o">:</span><span class="n">Taamey Frank CLM\007</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-at</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">xft</span><span class="o">:</span><span class="n">Ubuntu Mono</span><span class="o">:</span><span class="n">pixelsize</span><span class="o">=</span><span class="n">12,xft</span><span class="o">:</span><span class="n">Taamey Frank CLM\007</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-3</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">xft</span><span class="o">:</span><span class="n">bitocra13full</span><span class="o">:</span><span class="n">pixelsize</span><span class="o">=</span><span class="n">13,xft</span><span class="o">:</span><span class="n">Taamey Frank CLM\007</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-numbersign</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">xft</span><span class="o">:</span><span class="n">Ubuntu Mono</span><span class="o">:</span><span class="n">pixelsize</span><span class="o">=</span><span class="n">13,xft</span><span class="o">:</span><span class="n">Taamey Frank CLM\007</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-4</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">-</span><span class="o">*</span><span class="n">-terminus-medium-</span><span class="o">*</span><span class="n">-</span><span class="o">*</span><span class="n">-</span><span class="o">*</span><span class="n">14-</span><span class="o">*</span><span class="n">,xft</span><span class="o">:</span><span class="n">Taamey Frank CLM\007</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-dollar</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">xft</span><span class="o">:</span><span class="n">Ubuntu Mono</span><span class="o">:</span><span class="n">pixelsize</span><span class="o">=</span><span class="n">14,xft</span><span class="o">:</span><span class="n">Taamey Frank CLM\007</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-5</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">-</span><span class="o">*</span><span class="n">-5thElement-</span><span class="o">*</span><span class="n">\007</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-percent</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">xft</span><span class="o">:</span><span class="n">Ubuntu Mono</span><span class="o">:</span><span class="n">pixelsize</span><span class="o">=</span><span class="n">15,xft</span><span class="o">:</span><span class="n">Taamey Frank CLM\007</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-6</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">xft</span><span class="o">:</span><span class="n">5thElementHeb,xft</span><span class="o">:</span><span class="n">Taamey Frank CLM\007</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-asciicircum</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">xft</span><span class="o">:</span><span class="n">Ubuntu Mono</span><span class="o">:</span><span class="n">pixelsize</span><span class="o">=</span><span class="n">16,xft</span><span class="o">:</span><span class="n">Taamey Frank CLM\007</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-7</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">-</span><span class="o">*</span><span class="n">-bitocra7-</span><span class="o">*</span><span class="n">-</span><span class="o">*</span><span class="n">-</span><span class="o">*</span><span class="n">,xft</span><span class="o">:</span><span class="n">Taamey Frank CLM\007</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-ampersand</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">xft</span><span class="o">:</span><span class="n">Ubuntu Mono</span><span class="o">:</span><span class="n">pixelsize</span><span class="o">=</span><span class="n">17,xft</span><span class="o">:</span><span class="n">Taamey Frank CLM\007</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-8</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">xft</span><span class="o">:</span><span class="n">bitocra7Heb,xft</span><span class="o">:</span><span class="n">Taamey Frank CLM\007</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-asterisk</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">xft</span><span class="o">:</span><span class="n">Ubuntu Mono</span><span class="o">:</span><span class="n">pixelsize</span><span class="o">=</span><span class="n">18,xft</span><span class="o">:</span><span class="n">Taamey Frank CLM\007</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-parenleft</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">xft</span><span class="o">:</span><span class="n">Ubuntu Mono</span><span class="o">:</span><span class="n">pixelsize</span><span class="o">=</span><span class="n">19,xft</span><span class="o">:</span><span class="n">Taamey Frank CLM\007</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-f</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">xft</span><span class="o">:</span><span class="n">fixed</span><span class="o">:</span><span class="n">pixelsize</span><span class="o">=</span><span class="n">20,xft</span><span class="o">:</span><span class="n">Taamey Frank CLM\007</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-m</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">xft</span><span class="o">:</span><span class="n">Ubuntu Mono</span><span class="o">:</span><span class="n">pixelsize</span><span class="o">=</span><span class="n">34,xft</span><span class="o">:</span><span class="n">Taamey Frank CLM\007</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-M</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">xft</span><span class="o">:</span><span class="n">Miriam Mono CLM</span><span class="o">:</span><span class="n">pixelsize</span><span class="o">=</span><span class="n">34\007</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-o</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">xft</span><span class="o">:</span><span class="n">ocra10</span><span class="o">:</span><span class="n">pixelsize</span><span class="o">=</span><span class="n">13,xft</span><span class="o">:</span><span class="n">Taamey Frank CLM\007</span>
+<span class="k">!</span><span class="n"> URxvt.keysym.M-C-d</span><span class="o">:</span><span class="n"> command</span><span class="o">:</span><span class="n">\033]710</span><span class="o">;</span><span class="n">xft</span><span class="o">:</span><span class="n">Dejavu Sans Mono</span><span class="o">:</span><span class="n">pixelsize</span><span class="o">=</span><span class="n">12</span><span class="o">:</span><span class="n">antialias</span><span class="o">=</span><span class="kp">false</span><span class="n">,xft</span><span class="o">:</span><span class="n">Taamey Frank CLM\007</span>
+</pre></div>
+</td></tr></table>
+                </div>
+                
+                <div class="overlay short">
+                    <p>CLICK TO VIEW</p>
+                </div>
+                
+                <div class="minimize">
+                    <p>x</p>
+                </div>
+            </div>
+        </div>
+        
+        
+            
+            
+            <div class="multi">
+                
+                    <div class="item file">
+                        <div class="header">
+                            
+                                <h4>.zshrc<span class="right">(<a href="/dots/994/1/raw/">raw</a>, <a href="/dots/994/1/dl/">dl</a>)</span></h4>
+                            
+                        </div>
+                        
+                        <div class="content">
+                            <div class="dot">
+                                <table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre>  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 27
+ 28
+ 29
+ 30
+ 31
+ 32
+ 33
+ 34
+ 35
+ 36
+ 37
+ 38
+ 39
+ 40
+ 41
+ 42
+ 43
+ 44
+ 45
+ 46
+ 47
+ 48
+ 49
+ 50
+ 51
+ 52
+ 53
+ 54
+ 55
+ 56
+ 57
+ 58
+ 59
+ 60
+ 61
+ 62
+ 63
+ 64
+ 65
+ 66
+ 67
+ 68
+ 69
+ 70
+ 71
+ 72
+ 73
+ 74
+ 75
+ 76
+ 77
+ 78
+ 79
+ 80
+ 81
+ 82
+ 83
+ 84
+ 85
+ 86
+ 87
+ 88
+ 89
+ 90
+ 91
+ 92
+ 93
+ 94
+ 95
+ 96
+ 97
+ 98
+ 99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+182
+183
+184
+185
+186
+187
+188
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+202
+203
+204
+205
+206
+207
+208
+209
+210
+211
+212
+213
+214
+215
+216
+217
+218
+219
+220
+221
+222
+223
+224
+225
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
+255
+256
+257
+258
+259
+260
+261
+262
+263
+264
+265
+266
+267
+268
+269
+270
+271
+272
+273
+274
+275
+276
+277
+278
+279
+280
+281</pre></div></td><td class="code"><div class="highlight"><pre><span class="k">command_exists</span><span class="n"> () </span><span class="o">{</span>
+<span class="n">  type </span><span class="s">&quot;$1&quot;</span><span class="n"> &amp;&gt; /dev/null</span><span class="o">;</span>
+<span class="o">}</span>
+
+<span class="k">is_linux</span><span class="n"> () </span><span class="o">{</span>
+<span class="n">    [[ </span><span class="o">$</span><span class="n">(</span><span class="s">&#39;uname&#39;</span><span class="n">) </span><span class="o">==</span><span class="n"> </span><span class="s">&#39;Linux&#39;</span><span class="n"> ]]</span><span class="o">;</span>
+<span class="o">}</span>
+
+<span class="k">is_osx</span><span class="n"> () </span><span class="o">{</span>
+<span class="n">    [[ </span><span class="o">$</span><span class="n">(</span><span class="s">&#39;uname&#39;</span><span class="n">) </span><span class="o">==</span><span class="n"> </span><span class="s">&#39;Darwin&#39;</span><span class="n"> ]]</span>
+<span class="o">}</span>
+
+<span class="k">DISABLE_AUTO_TITLE</span><span class="o">=</span><span class="s">&quot;true&quot;</span>
+<span class="k">DISABLE_CORRECTION</span><span class="o">=</span><span class="s">&quot;false&quot;</span>
+<span class="k">COMPLETION_WAITING_DOTS</span><span class="o">=</span><span class="s">&quot;false&quot;</span>
+
+<span class="k">source</span><span class="n"> </span><span class="s">&quot;$HOME/.antigen/antigen.zsh&quot;</span>
+
+<span class="k">antigen</span><span class="n"> use oh-my-zsh</span>
+
+<span class="k">antigen</span><span class="n"> bundles &lt;&lt;EOBUNDLES</span>
+<span class="k">command-not-found</span>
+<span class="k">colored-man</span>
+<span class="k">git</span>
+<span class="k">git-extras</span>
+<span class="k">fasd</span>
+<span class="c1"># last-working-dir</span>
+<span class="k">pip</span>
+
+<span class="k">zsh-users/zsh-completions</span>
+<span class="k">unixorn/autoupdate-antigen.zshplugin</span>
+<span class="c1"># djui/alias-tips               # reminds you if you didn&#39;t use an alias</span>
+<span class="c1"># mfaerevaag/wd</span>
+<span class="c1"># MikeDacre/cdbk                # set bookmark aliases quickly</span>
+<span class="k">unixorn/git-extra-commands</span>
+<span class="k">voronkovich/gitignore.plugin.zsh</span>
+<span class="k">supercrabtree/k</span>
+<span class="k">ascii-soup/zsh-url-highlighter</span>
+<span class="k">EOBUNDLES</span>
+
+<span class="c1"># Theme</span>
+<span class="c1"># antigen-bundle arialdomartini/oh-my-git</span>
+<span class="c1"># antigen theme arialdomartini/oh-my-git-themes arialdo-pathinline</span>
+<span class="c1"># antigen theme arialdomartini/oh-my-git-themes arialdo-granzestyle</span>
+<span class="c1"># antigen bundle sindresorhus/pure</span>
+<span class="k">antigen</span><span class="n"> theme agnoster</span>
+<span class="c1"># antigen theme muse</span>
+<span class="c1"># antigen theme steeef</span>
+<span class="c1"># antigen theme fishy</span>
+<span class="k">export</span><span class="n"> </span><span class="k">DEFAULT_USER</span><span class="o">=$</span><span class="n">USER    </span><span class="c1"># suppress ssh user info for agnoster</span>
+
+<span class="k">antigen</span><span class="n"> bundle sorin-ionescu/prezto modules/completion</span>
+
+<span class="k">antigen</span><span class="n"> bundle zsh-users/zsh-syntax-highlighting</span>
+<span class="k">ZSH_HIGHLIGHT_HIGHLIGHTERS</span><span class="o">=</span><span class="n">(main brackets pattern)</span>
+<span class="c1"># Override highlighter colors</span>
+<span class="k">ZSH_HIGHLIGHT_STYLES[default]</span><span class="o">=</span><span class="n">none</span>
+<span class="k">ZSH_HIGHLIGHT_STYLES[unknown-token]</span><span class="o">=</span><span class="n">fg</span><span class="o">=</span><span class="mi">009</span>
+<span class="k">ZSH_HIGHLIGHT_STYLES[reserved-word]</span><span class="o">=</span><span class="n">fg</span><span class="o">=</span><span class="n">009,standout</span>
+<span class="k">ZSH_HIGHLIGHT_STYLES[alias]</span><span class="o">=</span><span class="n">fg</span><span class="o">=</span><span class="n">white,bold</span>
+<span class="k">ZSH_HIGHLIGHT_STYLES[builtin]</span><span class="o">=</span><span class="n">fg</span><span class="o">=</span><span class="n">white,bold</span>
+<span class="k">ZSH_HIGHLIGHT_STYLES[function]</span><span class="o">=</span><span class="n">fg</span><span class="o">=</span><span class="n">white,bold</span>
+<span class="k">ZSH_HIGHLIGHT_STYLES[command]</span><span class="o">=</span><span class="n">fg</span><span class="o">=</span><span class="n">white,bold</span>
+<span class="k">ZSH_HIGHLIGHT_STYLES[precommand]</span><span class="o">=</span><span class="n">fg</span><span class="o">=</span><span class="n">white,underline</span>
+<span class="k">ZSH_HIGHLIGHT_STYLES[commandseparator]</span><span class="o">=</span><span class="n">none</span>
+<span class="k">ZSH_HIGHLIGHT_STYLES[hashed-command]</span><span class="o">=</span><span class="n">fg</span><span class="o">=</span><span class="mi">009</span>
+<span class="k">ZSH_HIGHLIGHT_STYLES[path]</span><span class="o">=</span><span class="n">fg</span><span class="o">=</span><span class="n">214,underline</span>
+<span class="k">ZSH_HIGHLIGHT_STYLES[globbing]</span><span class="o">=</span><span class="n">fg</span><span class="o">=</span><span class="mi">063</span>
+<span class="k">ZSH_HIGHLIGHT_STYLES[history-expansion]</span><span class="o">=</span><span class="n">fg</span><span class="o">=</span><span class="n">white,underline</span>
+<span class="k">ZSH_HIGHLIGHT_STYLES[single-hyphen-option]</span><span class="o">=</span><span class="n">fg</span><span class="o">=</span><span class="n">green</span>
+<span class="k">ZSH_HIGHLIGHT_STYLES[double-hyphen-option]</span><span class="o">=</span><span class="n">fg</span><span class="o">=</span><span class="n">green</span>
+<span class="k">ZSH_HIGHLIGHT_STYLES[back-quoted-argument]</span><span class="o">=</span><span class="n">none</span>
+<span class="k">ZSH_HIGHLIGHT_STYLES[single-quoted-argument]</span><span class="o">=</span><span class="n">fg</span><span class="o">=</span><span class="mi">063</span>
+<span class="k">ZSH_HIGHLIGHT_STYLES[double-quoted-argument]</span><span class="o">=</span><span class="n">fg</span><span class="o">=</span><span class="mi">063</span>
+<span class="k">ZSH_HIGHLIGHT_STYLES[dollar-double-quoted-argument]</span><span class="o">=</span><span class="n">fg</span><span class="o">=</span><span class="mi">009</span>
+<span class="k">ZSH_HIGHLIGHT_STYLES[back-double-quoted-argument]</span><span class="o">=</span><span class="n">fg</span><span class="o">=</span><span class="mi">009</span>
+<span class="k">ZSH_HIGHLIGHT_STYLES[assign]</span><span class="o">=</span><span class="n">none</span>
+
+<span class="k">antigen</span><span class="n"> bundle zsh-users/zsh-history-substring-search</span>
+<span class="k">antigen</span><span class="n"> bundle zsh-users/zaw</span>
+<span class="c1"># From: http://blog.patshead.com/2013/04/more-powerful-zsh-history-search-using-zaw.html</span>
+<span class="k">bindkey</span><span class="n"> </span><span class="s">&#39;^R&#39;</span><span class="n"> zaw-history</span>
+<span class="k">bindkey</span><span class="n"> </span><span class="nf">-M</span><span class="n"> filterselect </span><span class="s">&#39;^R&#39;</span><span class="n"> down-line-or-history</span>
+<span class="k">bindkey</span><span class="n"> </span><span class="nf">-M</span><span class="n"> filterselect </span><span class="s">&#39;^S&#39;</span><span class="n"> up-line-or-history</span>
+<span class="k">bindkey</span><span class="n"> </span><span class="nf">-M</span><span class="n"> filterselect </span><span class="s">&#39;^E&#39;</span><span class="n"> accept-search</span>
+
+<span class="k">zstyle</span><span class="n"> </span><span class="s">&#39;:filter-select:highlight&#39;</span><span class="n"> matched </span><span class="k">fg</span><span class="o">=</span><span class="n">green</span>
+<span class="k">zstyle</span><span class="n"> </span><span class="s">&#39;:filter-select&#39;</span><span class="n"> max-lines </span><span class="mi">3</span>
+<span class="k">zstyle</span><span class="n"> </span><span class="s">&#39;:filter-select&#39;</span><span class="n"> case-insensitive yes </span><span class="c1"># enable case-insensitive </span>
+<span class="k">zstyle</span><span class="n"> </span><span class="s">&#39;:filter-select&#39;</span><span class="n"> extended-search yes </span><span class="c1"># see below</span>
+
+<span class="k">if</span><span class="n"> is_osx</span><span class="o">;</span><span class="n"> then</span>
+<span class="n">  </span><span class="c1"># zsh-history-substring-search</span>
+<span class="n">  </span><span class="c1"># bind UP and DOWN arrow keys</span>
+<span class="n">  bindkey </span><span class="s">&#39;^[[A&#39;</span><span class="n"> history-substring-search-up</span>
+<span class="n">  bindkey </span><span class="s">&#39;^[[B&#39;</span><span class="n"> history-substring-search-down</span>
+<span class="k">elif</span><span class="n"> is_linux</span><span class="o">;</span><span class="n"> then</span>
+<span class="n">  </span><span class="c1"># bind UP and DOWN arrow keys</span>
+<span class="n">  zmodload zsh/terminfo</span>
+<span class="n">  bindkey </span><span class="s">&quot;$terminfo[kcuu1]&quot;</span><span class="n"> history-substring-search-up</span>
+<span class="n">  bindkey </span><span class="s">&quot;$terminfo[kcud1]&quot;</span><span class="n"> history-substring-search-down</span>
+
+<span class="n">  </span><span class="c1"># bind P and N for EMACS mode</span>
+<span class="n">  bindkey </span><span class="nf">-M</span><span class="n"> emacs </span><span class="s">&#39;^P&#39;</span><span class="n"> history-substring-search-up</span>
+<span class="n">  bindkey </span><span class="nf">-M</span><span class="n"> emacs </span><span class="s">&#39;^N&#39;</span><span class="n"> history-substring-search-down</span>
+
+<span class="n">  </span><span class="c1"># bind k and j for VI mode</span>
+<span class="n">  bindkey </span><span class="nf">-M</span><span class="n"> vicmd </span><span class="s">&#39;k&#39;</span><span class="n"> history-substring-search-up</span>
+<span class="n">  bindkey </span><span class="nf">-M</span><span class="n"> vicmd </span><span class="s">&#39;j&#39;</span><span class="n"> history-substring-search-down</span>
+<span class="k">fi</span>
+
+<span class="c1"># antigen bundle tarruda/zsh-autosuggestions</span>
+<span class="c1"># zle-line-init() {</span>
+<span class="c1">#     zle autosuggest-start</span>
+<span class="c1"># }</span>
+<span class="c1"># zle -N zle-line-init</span>
+
+<span class="k">antigen</span><span class="n"> apply</span>
+
+<span class="c1"># export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/share/npm/bin</span>
+<span class="k">export</span><span class="n"> </span><span class="k">PATH</span><span class="o">=$</span><span class="n">PATH</span><span class="o">:</span><span class="n">/opt/emacs/bin</span>
+<span class="k">export</span><span class="n"> </span><span class="k">VISUAL</span><span class="o">=</span><span class="n">vim</span>
+<span class="k">export</span><span class="n"> </span><span class="k">GREP_OPTIONS</span><span class="o">=</span><span class="s">&#39;--color=always&#39;</span>
+
+<span class="c1"># User ctrl-z like alt-tab</span>
+<span class="k">fancy-ctrl-z</span><span class="n"> () </span><span class="o">{</span>
+<span class="n">  if [[ </span><span class="o">$</span><span class="c1">#BUFFER -eq 0 ]]; then</span>
+<span class="n">    </span><span class="k">BUFFER</span><span class="o">=</span><span class="s">&quot;fg&quot;</span>
+<span class="n">    zle accept-line</span>
+<span class="n">  else</span>
+<span class="n">    zle push-input</span>
+<span class="n">    zle clear-screen</span>
+<span class="n">  fi</span>
+<span class="o">}</span>
+<span class="k">zle</span><span class="n"> </span><span class="nf">-N</span><span class="n"> fancy-ctrl-z</span>
+<span class="k">bindkey</span><span class="n"> </span><span class="s">&#39;^Z&#39;</span><span class="n"> fancy-ctrl-z</span>
+
+<span class="c1"># From: http://askubuntu.com/questions/1577/moving-from-bash-to-zsh</span>
+<span class="k">autoload</span><span class="n"> </span><span class="nf">-U</span><span class="n"> compinit</span>
+
+<span class="k">for</span><span class="n"> func in </span><span class="o">$</span><span class="s">^fpath.zwc(N-.r:); autoload -U -w $</span><span class="n">func</span>
+
+<span class="k">setopt</span><span class="n"> completeinword</span>
+<span class="k">setopt</span><span class="n"> prompt_subst</span>
+
+<span class="k">zstyle</span><span class="n"> </span><span class="s">&#39;:completion:*&#39;</span><span class="n"> matcher-list </span><span class="s">&#39;m:{a-zA-Z}={A-Za-z}&#39;</span>
+<span class="k">zstyle</span><span class="n"> </span><span class="s">&#39;:completion:*:killall:*&#39;</span><span class="n"> command </span><span class="s">&#39;ps -u $USER -o cmd&#39;</span>
+
+<span class="k">autoload</span><span class="n"> select-word-style</span>
+<span class="k">select-word-style</span><span class="n"> shell</span>
+
+<span class="k">HISTFILE</span><span class="o">=</span><span class="n">~/.zhistory</span>
+<span class="k">HISTSIZE</span><span class="o">=</span><span class="n">SAVEHIST</span><span class="o">=</span><span class="mi">5000</span>
+<span class="k">setopt</span><span class="n"> incappendhistory</span>
+<span class="k">setopt</span><span class="n"> sharehistory</span>
+<span class="k">setopt</span><span class="n"> extendedhistory</span>
+
+<span class="c1"># superglobs</span>
+<span class="k">setopt</span><span class="n"> extendedglob</span>
+<span class="k">unsetopt</span><span class="n"> caseglob</span>
+<span class="k">unsetopt</span><span class="n"> nomatch 2&gt;/dev/null</span>
+
+<span class="k">setopt</span><span class="n"> interactivecomments </span><span class="c1"># pound sign in interactive prompt</span>
+
+<span class="k">setopt</span><span class="n"> auto_cd</span>
+<span class="k">autoload</span><span class="n"> </span><span class="nf">-U</span><span class="n"> promptinit &amp;&amp; promptinit</span>
+<span class="c1"># echo -ne &quot;\033]12;Green\007&quot;</span>
+
+<span class="c1"># # Vi mode</span>
+<span class="c1"># bindkey -v</span>
+<span class="c1"># bindkey &#39;^R&#39; history-incremental-pattern-search-backward</span>
+<span class="c1"># bindkey -M viins &quot;\M-.&quot; insert-last-word</span>
+
+<span class="c1"># Allow deleting backwards</span>
+<span class="c1"># http://www.zsh.org/mla/workers/2008/msg01653.html</span>
+<span class="c1"># bindkey -M viins &#39;^?&#39; backward-delete-char</span>
+<span class="c1"># bindkey -M viins &#39;^H&#39; backward-delete-char</span>
+
+<span class="c1"># 10ms for key sequences</span>
+<span class="k">KEYTIMEOUT</span><span class="o">=</span><span class="mi">1</span>
+
+<span class="k">if</span><span class="n"> command_exists </span><span class="s">&#39;rvm&#39;</span><span class="o">;</span><span class="n"> then</span>
+<span class="n">  source /usr/local/rvm/scripts/rvm</span>
+<span class="k">fi</span>
+
+<span class="k">TERM</span><span class="o">=</span><span class="s">&quot;xterm-256color&quot;</span>
+
+<span class="k">SCREEN_COLORS</span><span class="o">=</span><span class="s">&quot;`tput colors`&quot;</span>
+<span class="k">if</span><span class="n"> [ </span><span class="nf">-z</span><span class="n"> </span><span class="s">&quot;$SCREEN_COLORS&quot;</span><span class="n"> ] </span><span class="o">;</span><span class="n"> then</span>
+<span class="n">    case </span><span class="s">&quot;$TERM&quot;</span><span class="n"> in</span>
+<span class="n">        screen-</span><span class="o">*</span><span class="n">color-bce)</span>
+<span class="n">            echo </span><span class="s">&quot;Unknown terminal $TERM. Falling back to &#39;screen-bce&#39;.&quot;</span>
+<span class="n">            export </span><span class="k">TERM</span><span class="o">=</span><span class="n">screen-bce</span>
+<span class="n">            </span><span class="o">;;</span>
+<span class="n">        </span><span class="o">*</span><span class="n">-88color)</span>
+<span class="n">            echo </span><span class="s">&quot;Unknown terminal $TERM. Falling back to &#39;xterm-88color&#39;.&quot;</span>
+<span class="n">            export </span><span class="k">TERM</span><span class="o">=</span><span class="n">xterm-88color</span>
+<span class="n">            </span><span class="o">;;</span>
+<span class="n">        </span><span class="o">*</span><span class="n">-256color)</span>
+<span class="n">            echo </span><span class="s">&quot;Unknown terminal $TERM. Falling back to &#39;xterm-256color&#39;.&quot;</span>
+<span class="n">            export </span><span class="k">TERM</span><span class="o">=</span><span class="n">xterm-256color</span>
+<span class="n">            </span><span class="o">;;</span>
+<span class="n">    esac</span>
+<span class="n">    </span><span class="k">SCREEN_COLORS</span><span class="o">=`</span><span class="n">tput colors</span><span class="o">`</span>
+<span class="k">fi</span>
+<span class="k">if</span><span class="n"> [ </span><span class="nf">-z</span><span class="n"> </span><span class="s">&quot;$SCREEN_COLORS&quot;</span><span class="n"> ] </span><span class="o">;</span><span class="n"> then</span>
+<span class="n">    case </span><span class="s">&quot;$TERM&quot;</span><span class="n"> in</span>
+<span class="n">        gnome</span><span class="o">*</span><span class="n">|xterm</span><span class="o">*</span><span class="n">|konsole</span><span class="o">*</span><span class="n">|aterm|</span><span class="nx">[Ee]</span><span class="n">term)</span>
+<span class="n">            echo </span><span class="s">&quot;Unknown terminal $TERM. Falling back to &#39;xterm&#39;.&quot;</span>
+<span class="n">            export </span><span class="k">TERM</span><span class="o">=</span><span class="n">xterm</span>
+<span class="n">            </span><span class="o">;;</span>
+<span class="n">        rxvt</span><span class="o">*</span><span class="n">)</span>
+<span class="n">            echo </span><span class="s">&quot;Unknown terminal $TERM. Falling back to &#39;rxvt&#39;.&quot;</span>
+<span class="n">            export </span><span class="k">TERM</span><span class="o">=</span><span class="n">rxvt</span>
+<span class="n">            </span><span class="o">;;</span>
+<span class="n">        screen</span><span class="o">*</span><span class="n">)</span>
+<span class="n">            echo </span><span class="s">&quot;Unknown terminal $TERM. Falling back to &#39;screen&#39;.&quot;</span>
+<span class="n">            export </span><span class="k">TERM</span><span class="o">=</span><span class="n">screen</span>
+<span class="n">            </span><span class="o">;;</span>
+<span class="n">    esac</span>
+<span class="n">    </span><span class="k">SCREEN_COLORS</span><span class="o">=`</span><span class="n">tput colors</span><span class="o">`</span>
+<span class="k">fi</span>
+
+
+<span class="c1"># # Prediction</span>
+<span class="c1"># autoload predict-on</span>
+<span class="c1"># autoload predict-off</span>
+
+<span class="c1"># zle -N predict-on</span>
+<span class="c1"># zle -N predict-off</span>
+<span class="c1"># bindkey &#39;^X1&#39; predict-on</span>
+<span class="c1"># bindkey &#39;^X2&#39; predict-off</span>
+<span class="k">export</span><span class="n"> </span><span class="k">ZSH_PLUGINS_ALIAS_TIPS_TEXT</span><span class="o">=</span><span class="s">&quot;Alias tip: &quot;</span>
+<span class="k">AUTOSUGGESTION_HIGHLIGHT_COLOR</span><span class="o">=</span><span class="s">&#39;fg=magenta&#39;</span>
+
+<span class="c1"># Remap RAlt to Ctrl</span>
+<span class="k">setxkbmap</span><span class="n"> </span><span class="nf">-option</span><span class="n"> ctrl</span><span class="o">:</span><span class="n">ralt_rctrl </span>
+<span class="k">source</span><span class="n"> ~/.system_aliases</span>
+<span class="k">if</span><span class="n"> [ </span><span class="nf">-f</span><span class="n"> ~/.personal_aliases ]</span><span class="o">;</span><span class="n"> then</span>
+<span class="k">source</span><span class="n"> ~/.personal_aliases</span>
+<span class="k">fi</span>
+<span class="k">alias</span><span class="n"> </span><span class="k">mcm</span><span class="o">=</span><span class="s">&quot;make clean &amp;&amp; make&quot;</span>
+
+<span class="k">export</span><span class="n"> </span><span class="k">TERM</span><span class="o">=</span><span class="n">xterm-256color</span>
+<span class="c1"># eval &quot;$(fasd --init posix-alias zsh-hook)&quot;</span>
+
+<span class="k">fasd_cache</span><span class="o">=</span><span class="s">&quot;$HOME/.fasd-init-bash&quot;</span>
+<span class="k">if</span><span class="n"> [ </span><span class="s">&quot;$(command -v fasd)&quot;</span><span class="n"> </span><span class="nf">-nt</span><span class="n"> </span><span class="s">&quot;$fasd_cache&quot;</span><span class="n"> </span><span class="nf">-o</span><span class="n"> ! </span><span class="nf">-s</span><span class="n"> </span><span class="s">&quot;$fasd_cache&quot;</span><span class="n"> ]</span><span class="o">;</span><span class="n"> then</span>
+<span class="k">eval</span><span class="n"> </span><span class="s">&quot;$(fasd --init posix-alias zsh-hook zsh-ccomp zsh-ccomp-install zsh-wcomp zsh-wcomp-install)&quot;</span><span class="n"> &gt;| </span><span class="s">&quot;$fasd_cache&quot;</span>
+<span class="k">fi</span>
+<span class="k">source</span><span class="n"> </span><span class="s">&quot;$fasd_cache&quot;</span>
+<span class="k">unset</span><span class="n"> fasd_cache</span>
+<span class="c1"># jump to recently used items</span>
+<span class="k">alias</span><span class="n"> </span><span class="k">a</span><span class="o">=</span><span class="s">&#39;fasd -a&#39;</span><span class="n"> </span><span class="c1"># any</span>
+<span class="k">alias</span><span class="n"> </span><span class="k">s</span><span class="o">=</span><span class="s">&#39;fasd -si&#39;</span><span class="n"> </span><span class="c1"># show / search / select</span>
+<span class="k">alias</span><span class="n"> </span><span class="k">d</span><span class="o">=</span><span class="s">&#39;fasd -d&#39;</span><span class="n"> </span><span class="c1"># directory</span>
+<span class="k">alias</span><span class="n"> </span><span class="k">f</span><span class="o">=</span><span class="s">&#39;fasd -f&#39;</span><span class="n"> </span><span class="c1"># file</span>
+<span class="k">alias</span><span class="n"> </span><span class="k">z</span><span class="o">=</span><span class="s">&#39;fasd_cd -d&#39;</span><span class="n"> </span><span class="c1"># cd, same functionality as j in autojump</span>
+<span class="k">alias</span><span class="n"> </span><span class="k">zz</span><span class="o">=</span><span class="s">&#39;fasd_cd -d -i&#39;</span><span class="n"> </span><span class="c1"># interactive directory jump</span>
+
+
+<span class="c1"># TMUX Launch</span>
+<span class="k">alias</span><span class="n"> </span><span class="k">tmux</span><span class="o">=</span><span class="s">&#39;tmux -2&#39;</span>
+<span class="k">function</span><span class="n"> m </span><span class="o">{</span>
+<span class="n">    if [[ </span><span class="nf">-z</span><span class="n"> </span><span class="o">$</span><span class="n">TMUX ]]</span><span class="o">;</span><span class="n"> then</span>
+<span class="n">        </span><span class="c1"># Attempt to discover a detached session and attach it, else create a new session</span>
+<span class="n">        </span><span class="c1"># CURRENT_USER=$(whoami)</span>
+<span class="n">        </span><span class="k">TMUX_CON_SESSION</span><span class="o">=</span><span class="n">__dev__</span>
+<span class="n">        if tmux has-session </span><span class="nf">-t</span><span class="n"> </span><span class="o">$</span><span class="n">TMUX_CON_SESSION 2&gt;/dev/null</span><span class="o">;</span><span class="n"> then</span>
+<span class="n">            tmux </span><span class="mi">-2</span><span class="n"> attach-session </span><span class="nf">-t</span><span class="n"> </span><span class="o">$</span><span class="n">TMUX_CON_SESSION</span>
+<span class="n">        else</span>
+<span class="n">            tmux </span><span class="mi">-2</span><span class="n"> new-session </span><span class="nf">-s</span><span class="n"> </span><span class="o">$</span><span class="n">TMUX_CON_SESSION</span>
+<span class="n">        fi</span>
+<span class="n">    else</span>
+<span class="n">        </span><span class="c1"># If inside tmux session then print MOTD</span>
+<span class="n">        </span><span class="k">MOTD</span><span class="o">=</span><span class="n">/etc/motd.tcl</span>
+<span class="n">        if [ </span><span class="nf">-f</span><span class="n"> </span><span class="o">$</span><span class="n">MOTD ]</span><span class="o">;</span><span class="n"> then</span>
+<span class="n">            </span><span class="o">$</span><span class="n">MOTD</span>
+<span class="n">        fi</span>
+<span class="n">    fi</span>
+<span class="o">}</span>
+</pre></div>
+</td></tr></table>
+                            </div>
+                            
+                            <div class="overlay">&nbsp;</div>
+                            
+                            <div class="minimize">
+                                <p>x</p>
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="item file">
+                        <div class="header">
+                            
+                                <h4>.config<span class="right">(<a href="/dots/994/2/raw/">raw</a>, <a href="/dots/994/2/dl/">dl</a>)</span></h4>
+                            
+                        </div>
+                        
+                        <div class="content">
+                            <div class="dot">
+                                <table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre>  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 27
+ 28
+ 29
+ 30
+ 31
+ 32
+ 33
+ 34
+ 35
+ 36
+ 37
+ 38
+ 39
+ 40
+ 41
+ 42
+ 43
+ 44
+ 45
+ 46
+ 47
+ 48
+ 49
+ 50
+ 51
+ 52
+ 53
+ 54
+ 55
+ 56
+ 57
+ 58
+ 59
+ 60
+ 61
+ 62
+ 63
+ 64
+ 65
+ 66
+ 67
+ 68
+ 69
+ 70
+ 71
+ 72
+ 73
+ 74
+ 75
+ 76
+ 77
+ 78
+ 79
+ 80
+ 81
+ 82
+ 83
+ 84
+ 85
+ 86
+ 87
+ 88
+ 89
+ 90
+ 91
+ 92
+ 93
+ 94
+ 95
+ 96
+ 97
+ 98
+ 99
+100
+101
+102
+103</pre></div></td><td class="code"><div class="highlight"><pre><span class="c1"># This file has been auto-generated by i3-config-wizard(1).</span>
+<span class="c1"># It will not be overwritten, so edit it as you like.</span>
+<span class="c1">#</span>
+<span class="c1"># Should you change your keyboard layout some time, delete</span>
+<span class="c1"># this file and re-run i3-config-wizard(1).</span>
+<span class="c1">#</span>
+
+<span class="c1"># i3 config file (v4)</span>
+<span class="c1">#</span>
+<span class="c1"># Please see http://i3wm.org/docs/userguide.html for a complete reference!</span>
+
+<span class="k">set</span><span class="n"> </span><span class="o">$</span><span class="n">mod Mod4</span>
+<span class="c1"># Font for window titles. Will also be used by the bar unless a different font</span>
+<span class="c1"># is used in the bar {} block below.</span>
+<span class="c1"># This font is widely installed, provides lots of unicode glyphs, right-to-left</span>
+<span class="c1"># text rendering and scalability on retina/hidpi displays (thanks to pango).</span>
+<span class="k">font</span><span class="n"> pango</span><span class="o">:</span><span class="n">DejaVu Sans Mono </span><span class="mi">8</span>
+<span class="c1"># Before i3 v4.8, we used to recommend this one as the default:</span>
+<span class="c1"># font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1</span>
+<span class="c1"># The font above is very space-efficient, that is, it looks good, sharp and</span>
+<span class="c1"># clear in small sizes. However, its unicode glyph coverage is limited, the old</span>
+<span class="c1"># X core fonts rendering does not support right-to-left and this being a bitmap</span>
+<span class="c1"># font, it doesn’t scale on retina/hidpi displays.</span>
+
+<span class="c1"># Use Mouse+$mod to drag floating windows to their wanted position</span>
+<span class="k">floating_modifier</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span>
+
+<span class="c1"># start a terminal</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">Return exec i3-sensible-terminal</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">Shift</span><span class="o">+</span><span class="n">Return exec i3-sensible-terminal</span>
+
+<span class="c1"># kill focused window</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">Shift</span><span class="o">+</span><span class="n">c kill</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">c kill</span>
+<span class="k">bindsym</span><span class="n"> F1 kill</span>
+
+<span class="c1"># start dmenu (a program launcher)</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">d exec dmenu_run</span>
+<span class="c1"># There also is the (new) i3-dmenu-desktop which only displays applications</span>
+<span class="c1"># shipping a .desktop file. It is a wrapper around dmenu, so you need that</span>
+<span class="c1"># installed.</span>
+<span class="c1"># bindsym $mod+d exec --no-startup-id i3-dmenu-desktop</span>
+
+<span class="c1"># bindsym $mod+Shift+e exec emacs</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">e exec emacs</span>
+
+<span class="c1"># change focus</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">j focus left</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">k focus down</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">l focus up</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">semicolon focus right</span>
+
+<span class="c1"># alternatively, you can use the cursor keys:</span>
+<span class="c1"># bindsym $mod+Left focus left</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">Left workspace prev</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">Down focus down</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">Up focus up</span>
+<span class="c1"># bindsym $mod+Right focus right</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">Right workspace next</span>
+
+<span class="c1"># move focused window</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">Shift</span><span class="o">+</span><span class="n">j move left</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">Shift</span><span class="o">+</span><span class="n">k move down</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">Shift</span><span class="o">+</span><span class="n">l move up</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">Shift</span><span class="o">+</span><span class="n">semicolon move right</span>
+
+<span class="c1"># alternatively, you can use the cursor keys:</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">Shift</span><span class="o">+</span><span class="n">Left move left</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">Shift</span><span class="o">+</span><span class="n">Down move down</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">Shift</span><span class="o">+</span><span class="n">Up move up</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">Shift</span><span class="o">+</span><span class="n">Right move right</span>
+
+<span class="c1"># split in horizontal orientation</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">h split h</span>
+
+<span class="c1"># split in vertical orientation</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">v split v</span>
+
+<span class="c1"># enter fullscreen mode for the focused container</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">f fullscreen</span>
+
+<span class="c1"># change container layout (stacked, tabbed, toggle split)</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">s layout stacking</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">w layout tabbed</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">Shift</span><span class="o">+</span><span class="n">e layout toggle split</span>
+
+<span class="c1"># toggle tiling / floating</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">Shift</span><span class="o">+</span><span class="n">space floating toggle</span>
+
+<span class="c1"># change focus between tiling / floating windows</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">space focus mode_toggle</span>
+
+<span class="c1"># focus the parent container</span>
+<span class="k">bindsym</span><span class="n"> </span><span class="o">$</span><span class="n">mod</span><span class="o">+</span><span class="n">a focus parent</span>
+
+<span class="c1"># focus the child container</span>
+<span class="c1">#bindsym $mod+d focus child</span>
+
+<span class="c1"># Remember last workspace to jump back to</span>
+<span class="k">workspace_auto_back_and_forth</span><span class="n"> yes</span>
+
+<span class="c1"># name workspaces</span>
+<span class="c1"># set $tag1 &quot;1: ξ</span>
+</pre></div>
+</td></tr></table>
+                            </div>
+                            
+                            <div class="overlay">&nbsp;</div>
+                            
+                            <div class="minimize">
+                                <p>x</p>
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="item file">
+                        <div class="header">
+                            
+                                <h4>.conkyrc<span class="right">(<a href="/dots/994/3/raw/">raw</a>, <a href="/dots/994/3/dl/">dl</a>)</span></h4>
+                            
+                        </div>
+                        
+                        <div class="content">
+                            <div class="dot">
+                                <table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre> 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45</pre></div></td><td class="code"><div class="highlight"><pre><span class="c1">#run in console out of X</span>
+<span class="k">out_to_x</span><span class="n"> no</span>
+<span class="k">own_window</span><span class="n"> no</span>
+<span class="k">out_to_console</span><span class="n"> yes</span>
+<span class="k">background</span><span class="n"> no</span>
+<span class="k">max_text_width</span><span class="n"> </span><span class="mi">0</span>
+
+<span class="c1">#behaviour</span>
+<span class="k">update_interval</span><span class="n"> </span><span class="mf">1.0</span>
+
+<span class="c1"># number of cpu samples to average</span>
+<span class="c1"># set to 1 to disable averaging</span>
+<span class="k">cpu_avg_samples</span><span class="n"> </span><span class="mi">2</span>
+
+<span class="c1"># Add spaces to keep things from moving about?  This only affects certain objects.</span>
+<span class="c1"># use_spacer should have an argument of left, right, or none</span>
+<span class="k">use_spacer</span><span class="n"> left</span>
+
+<span class="c1"># Force UTF8? note that UTF8 support required XFT</span>
+<span class="k">override_utf8_locale</span><span class="n"> yes</span>
+
+<span class="c1">#font</span>
+<span class="k">use_xft</span><span class="n"> yes</span>
+<span class="k">xftfont</span><span class="n"> tamsyn</span><span class="o">:</span><span class="n">size</span><span class="o">=</span><span class="mi">8</span>
+<span class="c1"># xftfont terminus:size=8</span>
+
+<span class="c1"># JSON for i3bar</span>
+<span class="c1"># Stuff after &#39;TEXT&#39; will be formatted on screen</span>
+
+<span class="k">TEXT</span>
+<span class="n">  </span><span class="c1">## CPU Info</span>
+<span class="n">  [</span><span class="o">{</span><span class="n"> </span><span class="s">&quot;full_text&quot;</span><span class="n"> </span><span class="o">:</span><span class="n"> </span><span class="s">&quot;▣ CPU: ${cpu}% - [$cpubar] &quot;</span><span class="n"> , </span><span class="s">&quot;color&quot;</span><span class="n"> </span><span class="o">:</span><span class="n"> </span><span class="s">&quot;\#ff0000&quot;</span><span class="n"> </span><span class="o">}</span><span class="n">,</span>
+<span class="n">  </span><span class="c1">## RAM Info</span>
+<span class="n">  </span><span class="c1"># { &quot;full_text&quot; : &quot;≣ MEM: ${mem} - [$membar]&quot; , &quot;color&quot; : &quot;\#B58900&quot; },</span>
+<span class="n">  </span><span class="o">{</span><span class="n"> </span><span class="s">&quot;full_text&quot;</span><span class="n"> </span><span class="o">:</span><span class="n"> </span><span class="s">&quot;≣ MEM: ${mem} &quot;</span><span class="n"> , </span><span class="s">&quot;color&quot;</span><span class="n"> </span><span class="o">:</span><span class="n"> </span><span class="s">&quot;\#C8C039&quot;</span><span class="n"> </span><span class="o">}</span><span class="n">,</span>
+<span class="n">  </span><span class="c1">## Disk Space</span>
+<span class="n">  </span><span class="c1"># { &quot;full_text&quot; : &quot;■ DISK: ${fs_used /}/${fs_size /} - [${fs_bar}]&quot; , &quot;color&quot; : &quot;\#00A9B5&quot;},</span>
+<span class="n">  </span><span class="o">{</span><span class="n"> </span><span class="s">&quot;full_text&quot;</span><span class="n"> </span><span class="o">:</span><span class="n"> </span><span class="s">&quot;■ DISK: ${fs_used /} - [${fs_bar}]&quot;</span><span class="n"> , </span><span class="s">&quot;color&quot;</span><span class="n"> </span><span class="o">:</span><span class="n"> </span><span class="s">&quot;\#00A9B5&quot;</span><span class="o">}</span><span class="n">,</span>
+<span class="n">  </span><span class="c1">## Battery Percentage</span>
+<span class="n">  </span><span class="o">{</span><span class="n"> </span><span class="s">&quot;full_text&quot;</span><span class="o">:</span><span class="s">&quot;❤ BAT: ${battery_percent BAT0}%&quot;</span><span class="n">, </span><span class="s">&quot;color&quot;</span><span class="n"> </span><span class="o">:</span><span class="n"> </span><span class="s">&quot;\#DC322F&quot;</span><span class="n"> </span><span class="o">}</span><span class="n">,</span>
+<span class="n">  </span><span class="c1">## Weather Info</span>
+<span class="n">  </span><span class="o">{</span><span class="n"> </span><span class="s">&quot;full_text&quot;</span><span class="n"> </span><span class="o">:</span><span class="n"> </span><span class="s">&quot;☁ ${exec weather --headers=&quot;</span><span class="n">Temperature</span><span class="s">&quot; -q | awk &#39;/Temperature/ {print $2}&#39;} °F ➜ *${exec weather --headers=&quot;</span><span class="n">Sky conditions</span><span class="s">&quot; -q | awk &#39;/Sky conditions/ {print $3 &quot;</span><span class="n"> </span><span class="s">&quot; $4}&#39;}*&quot;</span><span class="n">, </span><span class="s">&quot;color&quot;</span><span class="n"> </span><span class="o">:</span><span class="n"> </span><span class="s">&quot;\#F26C91&quot;</span><span class="o">}</span><span class="n">,</span>
+<span class="n">  </span><span class="c1">## Date-Time</span>
+<span class="n">  </span><span class="c1"># { &quot;full_text&quot; : &quot; ${time %F - %I:%M %P} &quot; , &quot;color&quot; : &quot;\#95FC7B&quot;},</span>
+<span class="n">  </span><span class="o">{</span><span class="n"> </span><span class="s">&quot;full_text&quot;</span><span class="n"> </span><span class="o">:</span><span class="n"> &quot;</span>
+</pre></div>
+</td></tr></table>
+                            </div>
+                            
+                            <div class="overlay">&nbsp;</div>
+                            
+                            <div class="minimize">
+                                <p>x</p>
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            
+            
+            <div class="multi">
+                
+                    <div class="item file">
+                        <div class="header">
+                            
+                                <h4>conky-i3bar<span class="right">(<a href="/dots/994/4/raw/">raw</a>, <a href="/dots/994/4/dl/">dl</a>)</span></h4>
+                            
+                        </div>
+                        
+                        <div class="content">
+                            <div class="dot">
+                                <table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre> 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13</pre></div></td><td class="code"><div class="highlight"><pre><span class="c1">#!/bin/sh</span>
+
+<span class="c1"># Send the header so that i3bar knows we want to use JSON:</span>
+<span class="k">echo</span><span class="n"> </span><span class="s">&#39;{ &quot;version&quot;: 1 }&#39;</span>
+
+<span class="c1"># Begin the endless array.</span>
+<span class="k">echo</span><span class="n"> </span><span class="s">&#39;[&#39;</span>
+
+<span class="c1"># We send an empty first array of blocks to make the loop simpler:</span>
+<span class="k">echo</span><span class="n"> </span><span class="s">&#39;[],&#39;</span>
+
+<span class="c1"># Now send blocks with information forever:</span>
+<span class="k">exec</span><span class="n"> conky </span><span class="nf">-c</span><span class="n"> </span><span class="o">$</span><span class="n">HOME/.conkyrc</span>
+</pre></div>
+</td></tr></table>
+                            </div>
+                            
+                            <div class="overlay">&nbsp;</div>
+                            
+                            <div class="minimize">
+                                <p>x</p>
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+    
+
+    
+    
+        <div class="item">
+            <div class="header">
+                <h4>Notes</h4>
+            </div>
+            
+            <div class="content markdown">
+                <h2>i3 Window Manager</h2>
+
+<p>i3m-of-jeannie is my personal i3wm theme with conky and rofi, representing my best efforts to &ldquo;de-uglify&rdquo; i3. It features CPU, RAM, disk usage, battery, weather, and date/time, using the unicode symbol glyph hack first demonstrated by <a href="https://github.com/ivyl/i3-config">ivyl</a>. Some of his configuration is shamelessly copied. All common commands are designed to be issued with two keys (mod4 + a letter). Some features are still in progress. Requires rofi, conky, and tamsynmod font to be installed, as well as Droid Sans Mono for Powerline. </p>
+
+<p>The <a href="https://github.com/dp12/dotfiles">config files</a> are a little messy, but hopefully they give some good ideas for personal customization :)</p>
+
+<p>For displaying weather on Debian/Ubuntu, run <code>sudo apt-get install weather-utils</code> and add the line <code>id = &lt;your_zipcode&gt;</code> to /etc/weatherrc.</p>
+
+            </div>
+        </div>
+    
+    
+    
+        <div class="item">
+            <div class="header">
+                <h4>Comments</h4>
+            </div>
+            
+            <div class="content comments">
+                
+                    <h6><a href="/~Thyle/">Thyle</a> said about <strong class="light-orange">5 years ago</strong></h6>
+                    <div class="markdown">
+                        <p>Hey,<br>
+Could you share your wallpaper please ? </p>
+
+                        
+                        
+                    </div>
+                
+            </div>
+        </div>
+        
+        
+    
+    
+    
+
+    </div>
+    
+    <div id="footer">&nbsp;</div>
+</div>
+
+<div id="logo">
+    <a href="/"><img src="/public/images/logo.png" width="62" height="63" alt="DotShare.it"></a>
+</div>
+
+</body>
+</html>�όcػ      _3�1_3�AA�_3�2       :http://dotshare.it/dots/994/ necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Date: Wed, 12 Aug 2020 06:12:02 GMT
+Server: Apache/2.4.10 (Unix) PHP/5.5.21 mod_wsgi/4.4.5 Python/2.7.9
+Content-Length: 88592
+Content-Type: text/html; charset=utf-8
+ original-response-headers Date: Wed, 12 Aug 2020 06:12:02 GMT
+Server: Apache/2.4.10 (Unix) PHP/5.5.21 mod_wsgi/4.4.5 Python/2.7.9
+Content-Length: 88592
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: text/html; charset=utf-8
+ ctid 1 uncompressed-len 0 predictor::resource-count 21 predictor::http://dotshare.it/public/css/screen.css 1,1,1597212721,4096 predictor::http://dotshare.it/public/css/colorbox.css 1,1,1597212721,4096 predictor::http://dotshare.it/public/css/tipsy.css 1,1,1597212721,4096 predictor::http://dotshare.it/public/js/jquery.min.js 1,1,1597212721,4096 predictor::http://dotshare.it/public/js/jquery.ui.min.js 1,1,1597212721,4096 predictor::http://dotshare.it/public/js/jquery.colorbox.min.js 1,1,1597212721,4096 predictor::http://dotshare.it/public/js/jquery.tipsy.js 1,1,1597212721,4096 predictor::http://dotshare.it/public/js/ds.js 1,1,1597212721,4096 predictor::http://dotshare.it/public/images/uploads/994-thumb.png 1,1,1597212721,4097 predictor::http://www.google-analytics.com/ga.js 1,1,1597212721,4096 predictor::http://dotshare.it/public/images/cup.png 1,1,1597212721,4096 predictor::http://dotshare.it/public/fonts/envy-code-r/envy-code-r-webfont.ttf 1,1,1597212721,4096 net-response-time-onstart 517 net-response-time-onstop 5198 predictor::http://dotshare.it/public/images/logo.png 1,1,1597212721,4096 predictor::http://dotshare.it/public/images/loading.gif 1,1,1597212721,4096 predictor::http://dotshare.it/public/images/colorbox_controls.png 1,1,1597212721,4096 predictor::http://dotshare.it/public/images/30.png 1,1,1597212721,4096 predictor::http://dotshare.it/public/images/75.png 1,1,1597212721,4096 predictor::http://dotshare.it/dots/images/cup.png 1,1,1597212721,4096 predictor::http://dotshare.it/dots/images/30.png 1,1,1597212721,4096 predictor::http://dotshare.it/dots/images/75.png 1,1,1597212721,4096 predictor::http://dotshare.it/public/images/uploads/994.png 1,1,1597212721,4097  Z
